@@ -1,0 +1,21 @@
+# Inactivity Withdrawal
+
+I'm at the end of the RN-BSN program which involves putting together an extensive professional portfolio and obtaining off-site certifications. I had been working on both of these for a couple months, probably clocking about 5-10 hours per week. Few days ago I get an email saying they will be withdrawing me from the program due to academic inactivity with an option to appeal. So of course I immediately respond, frustrated, mostly confused. Get a call from WGU staff who said I hadn't done anything that could be considered "academic activity" and my professor was concerned so she reported me to the department that carries out these inactivity withdrawals. No explanation as to what counts as "academic activity" could be provided. The projects I'm working on don't involve any course content and are entirely off the WGU site. Throughout the course, my instructor had changed 3 times and I only ever got copy/pasted emails from them about holiday availability. I regularly check my school email, but decided to check it very thoroughly to see if I missed something, but nope. Everything was fine after I explained this, but had I not responded immediately, I would have had to appeal in time. Not too sure what that would entail, but sounded like a pain. Anyway, check your email daily I guess haha.
+
+Post: https://reddit.com/r/WGU/comments/1iau6zj/inactivity_withdrawal/
+
+## Comments
+- you're at the finish line now, so it won't really matter.  But for anyone that finds or sees this int he future,  draft a weekly "what i'm doing" email for your Mentor and maybe the CI for a class that's active, and send it on Tuesday.   It keeps you active b/c it counts as attendance.
+  [link](https://reddit.com/r/WGU/comments/1iau6zj/inactivity_withdrawal/m9ed14l/)
+  - And to piggy back off what you said. Those that are in the program, just need to click on a page(s), a test something for a few minutes . They can see anything you clicked and that will show you in a class vs inactivity.
+    [link](https://reddit.com/r/WGU/comments/1iau6zj/inactivity_withdrawal/m9eqlbu/)
+- That is crazy! And to think, I was getting annoyed when the instructor kept asking me when I planned to take my retake exam.
+  [link](https://reddit.com/r/WGU/comments/1iau6zj/inactivity_withdrawal/m9dht74/)
+- That's normal. It used to happen to me when I was working on projects. All you need to do is log into your current course and click around inside the course. WGU has no way of knowing that you're on an outside project. You're almost at the end so it won't affect you. Just remember to log in again in the next two weeks, if you are still working on this project.
+  [link](https://reddit.com/r/WGU/comments/1iau6zj/inactivity_withdrawal/m9f9zyo/)
+- About to start term 2 and have not found a clinical site..it’s so frustrating. Anyone in Los Angeles willing to precept me?? I’m in the RN to BSN program. I’ve been a nurse for 4 yrs! Help :(
+  [link](https://reddit.com/r/WGU/comments/1iau6zj/inactivity_withdrawal/m9kbsfa/)
+  - Took me 6 months of actively looking and getting turned down. I almost think they plan it to take that long so you buy an extra term.
+    [link](https://reddit.com/r/WGU/comments/1iau6zj/inactivity_withdrawal/m9kla4a/)
+    - Omg my preceptor telling me to take a month off. I’m so annoyed. Do they even check for affiliation? What is it that they even check!?
+      [link](https://reddit.com/r/WGU/comments/1iau6zj/inactivity_withdrawal/m9qqx2i/)

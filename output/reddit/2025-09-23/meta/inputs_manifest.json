@@ -1,0 +1,163 @@
+{
+  "run_id": "2025-09-23",
+  "threads_dir": "/Users/buddy/Desktop/projects/WGU College Choice Signals/data/reddit/comments/threads",
+  "processed_count": 39,
+  "inputs": [
+    {
+      "post_id": "1fofcjl",
+      "thread_path": "/Users/buddy/Desktop/projects/WGU College Choice Signals/data/reddit/comments/threads/1fofcjl.json"
+    },
+    {
+      "post_id": "1fq22r4",
+      "thread_path": "/Users/buddy/Desktop/projects/WGU College Choice Signals/data/reddit/comments/threads/1fq22r4.json"
+    },
+    {
+      "post_id": "1fs42st",
+      "thread_path": "/Users/buddy/Desktop/projects/WGU College Choice Signals/data/reddit/comments/threads/1fs42st.json"
+    },
+    {
+      "post_id": "1fu4ttn",
+      "thread_path": "/Users/buddy/Desktop/projects/WGU College Choice Signals/data/reddit/comments/threads/1fu4ttn.json"
+    },
+    {
+      "post_id": "1fyb6wz",
+      "thread_path": "/Users/buddy/Desktop/projects/WGU College Choice Signals/data/reddit/comments/threads/1fyb6wz.json"
+    },
+    {
+      "post_id": "1g8c1ot",
+      "thread_path": "/Users/buddy/Desktop/projects/WGU College Choice Signals/data/reddit/comments/threads/1g8c1ot.json"
+    },
+    {
+      "post_id": "1ggolwa",
+      "thread_path": "/Users/buddy/Desktop/projects/WGU College Choice Signals/data/reddit/comments/threads/1ggolwa.json"
+    },
+    {
+      "post_id": "1ggztkr",
+      "thread_path": "/Users/buddy/Desktop/projects/WGU College Choice Signals/data/reddit/comments/threads/1ggztkr.json"
+    },
+    {
+      "post_id": "1gm3tuy",
+      "thread_path": "/Users/buddy/Desktop/projects/WGU College Choice Signals/data/reddit/comments/threads/1gm3tuy.json"
+    },
+    {
+      "post_id": "1gtjju1",
+      "thread_path": "/Users/buddy/Desktop/projects/WGU College Choice Signals/data/reddit/comments/threads/1gtjju1.json"
+    },
+    {
+      "post_id": "1h8xbcp",
+      "thread_path": "/Users/buddy/Desktop/projects/WGU College Choice Signals/data/reddit/comments/threads/1h8xbcp.json"
+    },
+    {
+      "post_id": "1i2ealw",
+      "thread_path": "/Users/buddy/Desktop/projects/WGU College Choice Signals/data/reddit/comments/threads/1i2ealw.json"
+    },
+    {
+      "post_id": "1iau6zj",
+      "thread_path": "/Users/buddy/Desktop/projects/WGU College Choice Signals/data/reddit/comments/threads/1iau6zj.json"
+    },
+    {
+      "post_id": "1ipzgri",
+      "thread_path": "/Users/buddy/Desktop/projects/WGU College Choice Signals/data/reddit/comments/threads/1ipzgri.json"
+    },
+    {
+      "post_id": "1iyysxz",
+      "thread_path": "/Users/buddy/Desktop/projects/WGU College Choice Signals/data/reddit/comments/threads/1iyysxz.json"
+    },
+    {
+      "post_id": "1j4yine",
+      "thread_path": "/Users/buddy/Desktop/projects/WGU College Choice Signals/data/reddit/comments/threads/1j4yine.json"
+    },
+    {
+      "post_id": "1ja0zrw",
+      "thread_path": "/Users/buddy/Desktop/projects/WGU College Choice Signals/data/reddit/comments/threads/1ja0zrw.json"
+    },
+    {
+      "post_id": "1jdtlmj",
+      "thread_path": "/Users/buddy/Desktop/projects/WGU College Choice Signals/data/reddit/comments/threads/1jdtlmj.json"
+    },
+    {
+      "post_id": "1jlr5ul",
+      "thread_path": "/Users/buddy/Desktop/projects/WGU College Choice Signals/data/reddit/comments/threads/1jlr5ul.json"
+    },
+    {
+      "post_id": "1k2dcvl",
+      "thread_path": "/Users/buddy/Desktop/projects/WGU College Choice Signals/data/reddit/comments/threads/1k2dcvl.json"
+    },
+    {
+      "post_id": "1k84tpk",
+      "thread_path": "/Users/buddy/Desktop/projects/WGU College Choice Signals/data/reddit/comments/threads/1k84tpk.json"
+    },
+    {
+      "post_id": "1ka8rhv",
+      "thread_path": "/Users/buddy/Desktop/projects/WGU College Choice Signals/data/reddit/comments/threads/1ka8rhv.json"
+    },
+    {
+      "post_id": "1kcrwjt",
+      "thread_path": "/Users/buddy/Desktop/projects/WGU College Choice Signals/data/reddit/comments/threads/1kcrwjt.json"
+    },
+    {
+      "post_id": "1kqahiy",
+      "thread_path": "/Users/buddy/Desktop/projects/WGU College Choice Signals/data/reddit/comments/threads/1kqahiy.json"
+    },
+    {
+      "post_id": "1kqyd7o",
+      "thread_path": "/Users/buddy/Desktop/projects/WGU College Choice Signals/data/reddit/comments/threads/1kqyd7o.json"
+    },
+    {
+      "post_id": "1krb7nx",
+      "thread_path": "/Users/buddy/Desktop/projects/WGU College Choice Signals/data/reddit/comments/threads/1krb7nx.json"
+    },
+    {
+      "post_id": "1l633b3",
+      "thread_path": "/Users/buddy/Desktop/projects/WGU College Choice Signals/data/reddit/comments/threads/1l633b3.json"
+    },
+    {
+      "post_id": "1l660fm",
+      "thread_path": "/Users/buddy/Desktop/projects/WGU College Choice Signals/data/reddit/comments/threads/1l660fm.json"
+    },
+    {
+      "post_id": "1l6tfad",
+      "thread_path": "/Users/buddy/Desktop/projects/WGU College Choice Signals/data/reddit/comments/threads/1l6tfad.json"
+    },
+    {
+      "post_id": "1l815ub",
+      "thread_path": "/Users/buddy/Desktop/projects/WGU College Choice Signals/data/reddit/comments/threads/1l815ub.json"
+    },
+    {
+      "post_id": "1l9mifs",
+      "thread_path": "/Users/buddy/Desktop/projects/WGU College Choice Signals/data/reddit/comments/threads/1l9mifs.json"
+    },
+    {
+      "post_id": "1lawoah",
+      "thread_path": "/Users/buddy/Desktop/projects/WGU College Choice Signals/data/reddit/comments/threads/1lawoah.json"
+    },
+    {
+      "post_id": "1lew6kb",
+      "thread_path": "/Users/buddy/Desktop/projects/WGU College Choice Signals/data/reddit/comments/threads/1lew6kb.json"
+    },
+    {
+      "post_id": "1lhyro2",
+      "thread_path": "/Users/buddy/Desktop/projects/WGU College Choice Signals/data/reddit/comments/threads/1lhyro2.json"
+    },
+    {
+      "post_id": "1mfg98w",
+      "thread_path": "/Users/buddy/Desktop/projects/WGU College Choice Signals/data/reddit/comments/threads/1mfg98w.json"
+    },
+    {
+      "post_id": "1mgulbw",
+      "thread_path": "/Users/buddy/Desktop/projects/WGU College Choice Signals/data/reddit/comments/threads/1mgulbw.json"
+    },
+    {
+      "post_id": "1n1u9pp",
+      "thread_path": "/Users/buddy/Desktop/projects/WGU College Choice Signals/data/reddit/comments/threads/1n1u9pp.json"
+    },
+    {
+      "post_id": "1n3ys0m",
+      "thread_path": "/Users/buddy/Desktop/projects/WGU College Choice Signals/data/reddit/comments/threads/1n3ys0m.json"
+    },
+    {
+      "post_id": "1n7051o",
+      "thread_path": "/Users/buddy/Desktop/projects/WGU College Choice Signals/data/reddit/comments/threads/1n7051o.json"
+    }
+  ]
+}

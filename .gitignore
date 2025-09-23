@@ -1,0 +1,14 @@
+.idea/
+db/
+data/raw/
+data/labels/*
+dev/llm_bundle.md
+.venv/
+.DS_Store.idea/
+db/*.db
+data/raw/
+data/labels/*
+dev/
+.venv/
+.DS_Store
+.old/

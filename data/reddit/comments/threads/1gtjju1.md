@@ -1,0 +1,9 @@
+# MHA vs MBAHM @WGU (with RN-BSN background)
+
+I will be graduating with my BSN in May 2025. I’m trying to think long term and I would like to keep options open to work in hospital administration and even hopefully become a Director of Nursing (or similar) later in my career. I’m also interested in health and nursing policy. Right now, I’m considering WGU for my masters, but can’t choose between the MBA in Healthcare Management and the MHA. I do intend to go back for my DNP, but that’s later in life. I want to start my Masters online soon after graduating with my BSN and passing my NCLEX. Just need to pick a degree program. I’ve even briefly contemplated doing both back to back, but I feel like that shouldn’t be necessary, lol.
+
+Post: https://reddit.com/r/WGU/comments/1gtjju1/mha_vs_mbahm_wgu_with_rnbsn_background/
+
+## Comments
+- With a clinical background,  do the MHA. Both aren't necessary.  Experience means more.
+  [link](https://reddit.com/r/WGU/comments/1gtjju1/mha_vs_mbahm_wgu_with_rnbsn_background/lxrfr7j/)

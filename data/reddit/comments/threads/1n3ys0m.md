@@ -1,0 +1,9 @@
+# New student trying to get advice on if/how I could accelerate the classes I have. Start date 10/1
+
+I am starting the RN to BSN on 10/1. I have to take: D236 C784 C494 D235 D218 D219 D220 D221 D222 D223 D224 D225 D226 Life has been hectic otherwise I would have done the direct RN to msn healh leadership and getting my MBA hospital administration. Is there any way I could accelerate my current classes or any classes I would need to take for the masters program? I'm new to Western governors and I'm not sure if I completely understand all the ins and outs of accelerating other than doing easy classes first and then doing classes for credits on cheaper platforms to transfer into the school. Also, any advice on scholarships? Hope this didn't break any rules.
+
+Post: https://reddit.com/r/WGU_Accelerators/comments/1n3ys0m/new_student_trying_to_get_advice_on_ifhow_i_could/
+
+## Comments
+- Should’ve starting with Sophia learning to knock those credits out. Helped me substantially
+  [link](https://reddit.com/r/WGU_Accelerators/comments/1n3ys0m/new_student_trying_to_get_advice_on_ifhow_i_could/nexx41u/)

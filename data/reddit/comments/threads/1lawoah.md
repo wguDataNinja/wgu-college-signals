@@ -1,0 +1,8 @@
+# RN to BSN 2 classes in 12 days!
+
+The first class was easy, one paper that ended up being 5 pages, and I finished the class in a day. The second was real tough though- statistics. I spent 3-4 hours a day studying (about 1 hour was at work during free time) and was able to score exemplary overall! I’m NOT a math person so I’m super proud of this. For anyone taking Statistics in Healthcare really pay attention to the preassessment- some questions in the test were word for word!!
+
+Post: https://reddit.com/r/WGU_Accelerators/comments/1lawoah/rn_to_bsn_2_classes_in_12_days/
+
+## Comments
+_No comments_

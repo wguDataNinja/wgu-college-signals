@@ -1,0 +1,11 @@
+# WGU NCLEX/licensure in Michigan?
+
+Hi, I am from Michigan and I’m very interested in the BSN pre-licensure entry program, WGU is offered in Michigan but I’m not sure if I can take my NCLEX and get a Michigan RN license upon graduation. If I go to WGU and get a BSN in Nursing, will I be able to sit for the NCLEX in Michigan? Will I be able to get a Michigan RN license with a BSN from WGU (western governors university)
+
+Post: https://reddit.com/r/WGU/comments/1ggztkr/wgu_nclexlicensure_in_michigan/
+
+## Comments
+- I don't know much about nursing, but this helps a little bit. 
+
+[Michigan Nursing](https://www.wgu.edu/online-nursing-health-degrees/rn-prelicensure-nursing-bachelors-program.html) | "Completion of the prelicensure program satisfies the applicable requirements to obtain a license as a nurse in Michigan"
+  [link](https://reddit.com/r/WGU/comments/1ggztkr/wgu_nclexlicensure_in_michigan/lutsmmz/)

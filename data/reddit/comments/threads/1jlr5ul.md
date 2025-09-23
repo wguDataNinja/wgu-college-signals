@@ -1,0 +1,8 @@
+# BSN with WGU, MSN elsewhere?
+
+Hi everyone, I have some questions about WGU So right now I have an ADN and I am an RN First is it true that you can get your rn to BSN with wgu in 6months? I have no social life so I don’t mind writing a few essays every week if I can get my BSN in less time. Also if anyone here is a disabled veteran were you able to get more FAFSA benefits with this school? I used my GI bill for my associates and have 9 months left and I want to save that for my MSN so I want as many breaks for my BSN financially as I can get Lastly if anyone has a BSN from here and is pursing your masters else where was is difficult to transfer? I’m hearing wgu doesn’t do letter grades it’s just pass or fail? I would like to get my msn with Penn so I just want to see if a BSN from Wgu would even transfer Thank you in advance!
+
+Post: https://reddit.com/r/WGU/comments/1jlr5ul/bsn_with_wgu_msn_elsewhere/
+
+## Comments
+_No comments_

@@ -1,0 +1,3146 @@
+===== 1fofcjl.json =====
+{
+  "post": {
+    "post_id": "1fofcjl",
+    "title": "RN w/MBA",
+    "permalink": "https://reddit.com/r/WGU/comments/1fofcjl/rn_wmba/",
+    "created_iso": "",
+    "subreddit": "",
+    "num_comments": 1,
+    "selftext": "I'm an BSN RN and would like to get away from patient care. Thinking of starting an MBA, however, I'm not sure if I should do the regular MBA or the MBA for Healthcare Management. I'm assuming I'll always work at some kind of healthcare system, but would like to be considered for some leadership or other non-clinical role. I'm wondering if just an MBA would be sufficient. Any insight? Pros/cons of both?",
+    "selftext_truncated_for_llm": true
+  },
+  "reasons_to_choose": [],
+  "comments": [
+    {
+      "summary": "Thread focuses on whether to pursue a general MBA (broader career options) versus a healthcare MBA (more specialized for senior healthcare roles); respondent frames it as pros and cons.",
+      "evidence": [
+        {
+          "text": "Just my opinion but there would be pros and cons to both. An MBA is less specific which could open up more opportunities for you in other industries, but if you are gunning for a high level position i",
+          "comment_id": "t1_lopn3t9"
+        },
+        {
+          "text": "I'm an BSN RN and would like to get away from patient care. Thinking of starting an MBA, however, I'm not sure if I should do the regular MBA or the MBA for Healthcare Management. I'm assuming I'll al",
+          "comment_id": "post"
+        }
+      ]
+    },
+    {
+      "summary": "Low engagement and incomplete information limit actionable insights about WGU reputation or decision drivers from this thread.",
+      "evidence": [
+        {
+          "text": "I'm an BSN RN and would like to get away from patient care. Thinking of starting an MBA, however, I'm not sure if I should do the regular MBA or the MBA for Healthcare Management. I'm assuming I'll al",
+          "comment_id": "post"
+        },
+        {
+          "text": "Just my opinion but there would be pros and cons to both. An MBA is less specific which could open up more opportunities for you in other industries, but if you are gunning for a high level position i",
+          "comment_id": "t1_lopn3t9"
+        }
+      ]
+    }
+  ],
+  "verbatim_highlights": [
+    {
+      "text": "I'm an BSN RN and would like to get away from patient care.",
+      "comment_id": "post"
+    },
+    {
+      "text": "An MBA is less specific which could open up more opportunities for you in other industries",
+      "comment_id": "t1_lopn3t9"
+    }
+  ],
+  "conversation_summary": "The original poster is a BSN-prepared RN looking to transition out of bedside care and is deciding between a general MBA and a healthcare-focused MBA. A single commenter advises there are pros and cons: a general MBA is less specialized and may broaden opportunities outside healthcare, while a specialized healthcare MBA could be more directly relevant for senior healthcare leadership roles. The thread contains very limited engagement (one comment) and both the post and reply are truncated, providing incomplete detail. As a result, there is no explicit discussion of WGU-specific strengths, weaknesses, costs, or outcomes. For leadership, the thread signals candidate interest in degree specialization trade-offs but offers no reputational data about WGU; follow-up conversations should solicit program-specific concerns (time to completion, clinical credit transfer, career outcomes) to better inform RN-BSN/RN-to-MBA positioning."
+}
+
+===== 1fq22r4.json =====
+{
+  "post": {
+    "post_id": "1fq22r4",
+    "title": "New Transcripts",
+    "permalink": "https://reddit.com/r/WGU/comments/1fq22r4/new_transcripts/",
+    "created_iso": null,
+    "subreddit": "WGU",
+    "num_comments": 2,
+    "selftext": "I got my RN-BSN at WGU in 2021. I'm now applying for my Master's. Do I need to contact the school where I got my Associate's degree to send to WGU again or can't they just look ar my file? Seems like kind of a lot of extra work that shouldn't be needed",
+    "selftext_truncated_for_llm": true
+  },
+  "reasons_to_choose": [
+    {
+      "summary": "WGU retains former student transcripts, reducing the need for applicants to re-request old associate degree transcripts.",
+      "evidence": [
+        {
+          "text": "I would imagine they still have your old transcript.",
+          "comment_id": "t1_lp21ylf"
+        }
+      ]
+    },
+    {
+      "summary": "Returning WGU graduates can use a shorter returning graduate application and WGU will pull their WGU transcripts internally.",
+      "evidence": [
+        {
+          "text": "If you're applying to come back to WGU, use the returning grad application form -- it's shorter, and they'll know to pull your WGU tran",
+          "comment_id": "t1_lp3txp1"
+        }
+      ]
+    },
+    {
+      "summary": "Holding a WGU RN-BSN is sufficient credential for applying to a master's program (no additional associate transcript required for eligibility).",
+      "evidence": [
+        {
+          "text": "Your Bachelors degree is sufficient when applying for a Masters.",
+          "comment_id": "t1_lp3txp1"
+        }
+      ]
+    }
+  ],
+  "comments": [
+    {
+      "summary": "Advice is pragmatic but limited: commenters recommend confirming with admissions for definitive requirements.",
+      "evidence": [
+        {
+          "text": "Best to ask an admissions counselor but I would imagine they still have your old transcript.",
+          "comment_id": "t1_lp21ylf"
+        }
+      ]
+    },
+    {
+      "summary": "Thread shows low engagement and quick consensus—only two brief replies with no detailed procedural steps or links.",
+      "evidence": [
+        {
+          "text": "If you're applying to come back to WGU, use the returning grad application form -- it's shorter, and they'll know to pull your WGU tran",
+          "comment_id": "t1_lp3txp1"
+        }
+      ]
+    },
+    {
+      "summary": "Minor risk: comments assume no new credits earned elsewhere since graduation; admissions confirmation still recommended for complex cases.",
+      "evidence": [
+        {
+          "text": "So unless you have earned credits from another institution since 2021 you should be good.",
+          "comment_id": "t1_lp21ylf"
+        }
+      ]
+    }
+  ],
+  "verbatim_highlights": [
+    {
+      "text": "I got my RN-BSN at WGU in 2021. I'm now applying for my Master's.",
+      "comment_id": "post"
+    },
+    {
+      "text": "they still have your old transcript.",
+      "comment_id": "t1_lp21ylf"
+    },
+    {
+      "text": "Your Bachelors degree is sufficient when applying for a Masters.",
+      "comment_id": "t1_lp3txp1"
+    }
+  ],
+  "conversation_summary": "A WGU graduate asked whether their associate degree transcript needs to be resent when applying for a master's after earning an RN-BSN at WGU in 2021. Commenters generally assumed WGU retains former student transcripts and that the bachelor's degree (RN-BSN) is sufficient for master's applications. One commenter recommended using the returning graduate application if reapplying to WGU because it is shorter and the university will pull internal records. Advice was pragmatic but brief and recommended confirming with an admissions counselor for certainty, especially if the student earned other credits since 2021. Overall the thread signals positive perceptions of WGU's internal record-keeping and a straightforward re-entry process, but lacks detailed procedural guidance or official references."
+}
+
+===== 1fs42st.json =====
+{
+  "post": {
+    "post_id": "1fs42st",
+    "title": "Has anyone started or completed their RN/BSN from LPN. I'm thinking about enrolling but a little hesitant.",
+    "permalink": "https://reddit.com/r/WGU/comments/1fs42st/has_anyone_started_or_completed_their_rnbsn_from/",
+    "created_iso": "",
+    "subreddit": "r/WGU",
+    "num_comments": 2
+  },
+  "reasons_to_choose": [
+    {
+      "summary": "WGU offers an RN-to-BSN pathway for already-licensed RNs (online option).",
+      "evidence": [
+        {
+          "text": "You can go from RN to BSN at WGU.",
+          "comment_id": "t1_lphqwsk"
+        }
+      ]
+    },
+    {
+      "summary": "WGU has a prelicensure BSN program that can lead to RN eligibility (option for non-nurses).",
+      "evidence": [
+        {
+          "text": "You could go in the WGU prelicensure BSN program like any non-nurse which would lead to eligibility for the RN exam, but the prelicensure BSN has extensive in-person sessions, and you might not get ad",
+          "comment_id": "t1_lpi10av"
+        }
+      ]
+    }
+  ],
+  "comments": [
+    {
+      "summary": "WGU does not support an LPN-to-RN pathway; that transition must be done in person.",
+      "evidence": [
+        {
+          "text": "You can’t go from LPN to RN at WGU.\n\nYou have to do that in person.",
+          "comment_id": "t1_lphqwsk"
+        }
+      ]
+    },
+    {
+      "summary": "The prelicensure BSN program includes extensive in-person sessions and may have admission/seat limitations (reply truncated).",
+      "evidence": [
+        {
+          "text": "the prelicensure BSN has extensive in-person sessions, and you might not get ad",
+          "comment_id": "t1_lpi10av"
+        }
+      ]
+    },
+    {
+      "summary": "Thread engagement is minimal (very short thread, two comments), indicating limited anecdotal input on this specific LPN→RN/BSN concern.",
+      "evidence": [
+        {
+          "text": "",
+          "comment_id": "post"
+        }
+      ]
+    }
+  ],
+  "verbatim_highlights": [
+    {
+      "text": "You can’t go from LPN to RN at WGU.",
+      "comment_id": "t1_lphqwsk"
+    },
+    {
+      "text": "You can go from RN to BSN at WGU.",
+      "comment_id": "t1_lphqwsk"
+    },
+    {
+      "text": "the prelicensure BSN has extensive in-person sessions",
+      "comment_id": "t1_lpi10av"
+    }
+  ],
+  "conversation_summary": "The OP asked about progressing from LPN to RN/BSN through WGU. Respondents clarified that WGU does not support a direct LPN-to-RN pathway — that transition must be completed in person. Commenters noted WGU does offer an RN-to-BSN pathway for already-licensed RNs. There is also a WGU prelicensure BSN program that can lead to RN eligibility, but it includes extensive in-person sessions and may have admission constraints (reply was truncated). The thread is very short with limited engagement, so conclusions are based on minimal anecdotal evidence. Leadership should note confusion about LPN pathways and consider clearer messaging around LPN→RN options, the RN→BSN online offering, and the in-person requirements/limits of the prelicensure BSN."
+}
+
+===== 1fu4ttn.json =====
+{
+  "post": {
+    "post_id": "1fu4ttn",
+    "title": "Why I chose WGU!",
+    "permalink": "https://reddit.com/r/WGU/comments/1fu4ttn/why_i_chose_wgu/",
+    "created_iso": "",
+    "subreddit": "WGU",
+    "num_comments": 23,
+    "selftext": "Edited 10/5/2024: The reason I chose WGU is because one 6 month term at WGU costs about $5k. While similar schools like Keiser charge around $11k (including books and fees) per 4-month semester, come to find out a lot of online colleges (like Snhu) charge about $450+ per credit hour. The national average for a 2-4yr bachelors is around $25-$35k, but at similar universities like Keiser, SHNU, Prude, etc. can run upwards of $10k-$20k above the national average. Not saying those colleges are less competent or inferior. WGU offers \"Competency-Based Education\" (equivalent to credit hours) which allows you to work at a faster pace. \"*Competency-based education means that students progress through courses as soon as they can prove they’ve mastered the material, rather than advancing only when the semester or term ends. If you can learn faster, spend more time on schoolwork, or lean on the knowledge you already have from previous work or school experience, you can accelerate through your courses.*\" This approach gives students the ability to earn a bachelor's in 6 to 12 months as a first-time student without prior experience and save money. You can earn a bachelors spending less than $10k. No one should go broke or in serious debt for trying to have a better life and contribute immensely to society. Also for the inspiring nurses WGU offer the BSN (pre-licensure) meaning you can enroll without already being a registered nurse, and earn your RN license while working towards your degree. WGU has partner labs across 24 states allowing clinicals to be more accessible and included in your tuition. Don't forget to check out the many scholarships offered and reverse transfer partners. Reverse transfer is the ability to earn your associate's with credits earned from WGU to satisfy requirements at partnered community college or universities. I'm not an expert, but this is everything I gathered while doing my own research. I'm not going to talk about everything WGU have to offer and why I chose WGU. But I wanted to highlight several reasons. I am transferring in with over 30 credits, so hopefully I will be done with my Bachelor in Health Science within several months. After spending the last several weeks looking and applying to different post-secondary education trying find a affordable and flexible online college WGU turned out to be the best for me. Don't just take my word for it, check out testimonies across Reddit, YouTube, etc. WGU is highly accredited and recognized across the nation.",
+    "selftext_truncated_for_llm": true
+  },
+  "reasons_to_choose": [
+    {
+      "summary": "Affordability — lower cost per term compared with similar schools (author cites ~$5k per 6-month term).",
+      "evidence": [
+        {
+          "text": "The reason I chose WGU is because one 6 month term at WGU costs about $5k.",
+          "comment_id": "post"
+        }
+      ]
+    },
+    {
+      "summary": "Mentor and instructor support — students report stronger individualized help and motivation from mentors/instructors and peers.",
+      "evidence": [
+        {
+          "text": "Never got this meluvh help and attention in college than with wgu. The mentor(s), instructor help, the peers.",
+          "comment_id": "t1_lpwtpa3"
+        }
+      ]
+    },
+    {
+      "summary": "Transfer-friendly policies and program catalog — transfers and reverse transfers make degrees more accessible and cheaper.",
+      "evidence": [
+        {
+          "text": "I chose it because of the affordability factors, their transfer policy, and their program catalog.",
+          "comment_id": "t1_lq1iita"
+        },
+        {
+          "text": "The reverse transfers allowed me to get my Associates degree!",
+          "comment_id": "t1_lqhk6w8"
+        }
+      ]
+    },
+    {
+      "summary": "Self-paced/competency-based model allows rapid completion for some students (finish courses in days or weeks).",
+      "evidence": [
+        {
+          "text": "It is possible. They are a lot of students who can and have finished a course or two within a week.",
+          "comment_id": "t1_lqmke7g"
+        }
+      ]
+    }
+  ],
+  "comments": [
+    {
+      "summary": "Proctoring friction — Guardian browser / proctor setup complaints and wait times; some students find proctoring burdensome.",
+      "evidence": [
+        {
+          "text": "the proctor stuff has gotten worse",
+          "comment_id": "t1_lq1201j"
+        },
+        {
+          "text": "Had to wait a total of 6 hours a few separate times just to try to get a proctor only to be given an excuse about my room",
+          "comment_id": "t1_lq12bzk"
+        }
+      ]
+    },
+    {
+      "summary": "Mixed mentor experience — while many praise mentors, some describe scripted/limited help from mentors.",
+      "evidence": [
+        {
+          "text": "mentors telling me “how can I help you with passing this OA” only to be told oh you need to study harder and use our ...",
+          "comment_id": "t1_lq1201j"
+        },
+        {
+          "text": "My enrollment, 1st course mentor they were the OG’s the PA instructors amazing. So there are good people there. But here’s my tim...",
+          "comment_id": "t1_lq150xw"
+        }
+      ]
+    },
+    {
+      "summary": "External cost comparisons — users compare WGU pricing to SNHU, Keiser, etc., often concluding WGU is cheaper if taking multiple courses per term.",
+      "evidence": [
+        {
+          "text": "Just for accuracy, SNHU costs $330/credit... If you do at least 5 classes per term, WGU is cheaper",
+          "comment_id": "t1_lpxpjbj"
+        },
+        {
+          "text": "Most run around $400 depending on the course... That's $330",
+          "comment_id": "t1_lqhsdei"
+        }
+      ]
+    },
+    {
+      "summary": "Thread contains deleted/removed comments and a few side conversations about browser/proctoring tools, reducing clarity on community consensus.",
+      "evidence": [
+        {
+          "text": "[deleted]",
+          "comment_id": "t1_lpx4ct9"
+        },
+        {
+          "text": "[removed]",
+          "comment_id": "t1_lpylvfa"
+        }
+      ]
+    },
+    {
+      "summary": "Positive new-student sentiment — some users express strong motivation and satisfaction starting at WGU.",
+      "evidence": [
+        {
+          "text": "Started my journey today and I’m so motivated!",
+          "comment_id": "t1_lpwtpa3"
+        }
+      ]
+    }
+  ],
+  "verbatim_highlights": [
+    {
+      "text": "one 6 month term at WGU costs about $5k.",
+      "comment_id": "post"
+    },
+    {
+      "text": "Never got this meluvh help and attention in college than with wgu.",
+      "comment_id": "t1_lpwtpa3"
+    },
+    {
+      "text": "the proctor stuff has gotten worse",
+      "comment_id": "t1_lq1201j"
+    },
+    {
+      "text": "It is possible. They are a lot of students who can and have finished a course or two within a week.",
+      "comment_id": "t1_lqmke7g"
+    }
+  ],
+  "conversation_summary": "The thread is overwhelmingly focused on affordability as the primary reason students choose WGU, with the original poster highlighting a ~$5k 6-month term versus much higher costs at comparable schools. Multiple commenters praise WGU’s mentors, instructors, and peer support, and several note transfer-friendly policies (including reverse transfer) as a practical advantage. The competency-based, self-paced model is seen as enabling rapid course completion for motivated students. Areas of concern center on proctoring friction—Guardian browser and proctor wait/setup issues—and occasional perceptions of scripted or uneven mentor support. Users also compare WGU cost-effectiveness with SNHU, Keiser, and other institutions, generally concluding WGU is cheaper if taking multiple courses per term. There are some deleted/removed comments, but overall sentiment skews positive with caveats about exam logistics and variable student experiences."
+}
+
+===== 1fyb6wz.json =====
+{
+  "post": {
+    "post_id": "1fyb6wz",
+    "title": "RN TO BSN",
+    "permalink": "https://reddit.com/r/WGU/comments/1fyb6wz/rn_to_bsn/",
+    "created_iso": "",
+    "subreddit": "WGU",
+    "num_comments": 2,
+    "selftext": "I am having it extremely difficult to find clinical site. WGU cannot assigned a location, and when you find on your own they are making it extremely difficult with all their requirements. I should have finished this program this October but with all the problems I am having, I at the point where I am about to quit. This is just too much. Is anyone in this program having the same issue or its just me. Appreciate the feedback",
+    "selftext_truncated_for_llm": true
+  },
+  "reasons_to_choose": [],
+  "comments": [
+    {
+      "summary": "Student reports major difficulty securing clinical placement; says WGU will not assign a location and imposes burdensome requirements when students find sites themselves.",
+      "evidence": [
+        {
+          "text": "I am having it extremely difficult to find clinical site. WGU cannot assigned a location, and when you find on your own they are making it extremely difficult with all their requirements.",
+          "comment_id": "post"
+        }
+      ]
+    },
+    {
+      "summary": "Peer recommendation to use the WGU RN-to-BSN Facebook group as a resource and note that others have experienced the same issue.",
+      "evidence": [
+        {
+          "text": "Check the WGU RN to BSN group on Facebook. I've read of more than one person having this issue.",
+          "comment_id": "t1_lqwaxe9"
+        }
+      ]
+    },
+    {
+      "summary": "Thread indicates this may be a recurring or systemic pain point (not an isolated complaint) and a place where students seek peer support.",
+      "evidence": [
+        {
+          "text": "I've read of more than one person having this issue.",
+          "comment_id": "t1_lqwaxe9"
+        }
+      ]
+    }
+  ],
+  "verbatim_highlights": [
+    {
+      "text": "WGU cannot assigned a location, and when you find on your own they are making it extremely difficult with all their requirements.",
+      "comment_id": "post"
+    },
+    {
+      "text": "Check the WGU RN to BSN group on Facebook.",
+      "comment_id": "t1_lqwaxe9"
+    }
+  ],
+  "conversation_summary": "The original poster is struggling to secure a clinical site for the RN-to-BSN and reports that WGU will not assign a site; when students locate sites themselves, institutional requirements make placements difficult. A commenter advised joining the WGU RN-to-BSN Facebook group as a practical workaround and noted others have reported the same problem. The thread is short but flags a recurring operational pain point around clinical placement and the administrative burden imposed on students. Students appear to turn to peer networks for solutions rather than institutional support. For leadership, this represents a reputational and student-experience risk and suggests investigating placement assignment policy, streamlining external-site requirements, and monitoring/supporting the Facebook community as an early-warning channel."
+}
+
+===== 1g8c1ot.json =====
+{
+  "post": {
+    "post_id": "1g8c1ot",
+    "title": "RN to MSN track",
+    "permalink": "https://reddit.com/r/WGU/comments/1g8c1ot/rn_to_msn_track/",
+    "created_iso": "",
+    "subreddit": "WGU",
+    "num_comments": 1,
+    "selftext": "My start date is 11/1/24 for the RN-MSN leadership and management track. I have 38 CU’s needed for the BSN portion. I’m on maternity leave until January so I will have plenty of time to work on these, but how realistic is it to get these done by then? Also, what is does the field hours look like for this part as I’m a little confused between the BSN and MSN requirements? It’s not clear in any of the guides I can get my hands on. In California and I’ve been told I can’t opt out of the public health certification portion.",
+    "selftext_truncated_for_llm": true
+  },
+  "reasons_to_choose": [],
+  "comments": [
+    {
+      "summary": "Prospective student is planning start date and notes available time due to maternity leave — indicates schedule flexibility and readiness to progress credits.",
+      "evidence": [
+        {
+          "text": "My start date is 11/1/24 for the RN-MSN leadership and management track. I have 38 CU’s needed for the BSN portion. I’m on maternity leave until January so I will have plenty of time to work on these,",
+          "comment_id": "post"
+        }
+      ]
+    },
+    {
+      "summary": "Very low engagement in the thread; only one brief follow-up comment asking whether the student completed the MSN — no discussion of program quality, outcomes, cost, or support.",
+      "evidence": [
+        {
+          "text": "Did you ever end up doing their msn program?",
+          "comment_id": "t1_n11o5dx"
+        }
+      ]
+    }
+  ],
+  "verbatim_highlights": [
+    {
+      "text": "I have 38 CU’s needed for the BSN portion.",
+      "comment_id": "post"
+    },
+    {
+      "text": "Did you ever end up doing their msn program?",
+      "comment_id": "t1_n11o5dx"
+    }
+  ],
+  "conversation_summary": "The poster states they will begin the RN→MSN leadership and management track on 11/1/24, needs 38 competency units for the BSN portion, and expects to have time to work on coursework while on maternity leave. The thread received minimal engagement — a single comment asking whether they ultimately completed the MSN program. There is no substantive discussion about WGU-specific decision drivers such as cost, clinical placement, pacing, faculty support, or program reputation. The tone is informational and planning-oriented from the poster, with no reported outcomes or evaluations. For leadership, this thread signals prospective-student planning behavior but provides no direct evidence about why applicants choose WGU or experience with the program; follow-up engagement could capture decision drivers and convert interest into enrollment."
+}
+
+===== 1ggolwa.json =====
+{
+  "post": {
+    "post_id": "1ggolwa",
+    "title": "Thinking of RN-BSN",
+    "permalink": "https://reddit.com/r/WGU/comments/1ggolwa/thinking_of_rnbsn/",
+    "created_iso": "",
+    "subreddit": "WGU",
+    "num_comments": 20,
+    "selftext": "Hello, This is my first time posting on this subreddit since I'm a lurker on here lol. I am in a BSN program at my school, its just really expensive and I was thinking of doing my school's ASN program instead and finishing up at WGU for my BSN. If WGU takes all my credits I would probably only need to take about 9 to 11 of these classes. https://preview.redd.it/4hsh30nqk5yd1.png?width=1082&format=png&auto=webp&s=7af82b9b3cacdf8e4775b7b65d6cd740b3c637dd I would save anywhere from $20k-$23k in loans taking this route since my current school is so expensive. Would you recommend the program? How long did each class take? What do you wish you could've done differently or that WGU could have done differently? And how long did it take you to complete the RN-BSN program? I'd love to get some information and save myself from a student debt hole. I was already thinking of doing WGU's MSN program after a few years as a staff nurse, so if anyone has any info on that, I'd love to hear it as well.",
+    "selftext_truncated_for_llm": true
+  },
+  "reasons_to_choose": [
+    {
+      "summary": "Affordability — multiple commenters highlight WGU's lower cost as a primary advantage.",
+      "evidence": [
+        {
+          "text": "I am in a BSN program at my school, its just really expensive and I was thinking of doing my school's ASN program",
+          "comment_id": "post"
+        },
+        {
+          "text": "The price is definitely right.",
+          "comment_id": "t1_lwzngzj"
+        }
+      ]
+    },
+    {
+      "summary": "Flexibility and self‑paced format — students can progress faster on material they already know and slow down where needed.",
+      "evidence": [
+        {
+          "text": "I LOVED the fact that it was self paced and I could breeze through the courses that I already had experience in.",
+          "comment_id": "t1_lx3vsr2"
+        },
+        {
+          "text": "I love the flexibility of the program, so I would definitely recommend. The time it takes to finish is solely dependent on each individual",
+          "comment_id": "t1_lx0ij32"
+        }
+      ]
+    },
+    {
+      "summary": "Potential for rapid completion if disciplined — several respondents report completing degrees in months rather than years.",
+      "evidence": [
+        {
+          "text": "depending on how disciplined you are, you can get through courses quickly. Pro tip:",
+          "comment_id": "t1_lwzngzj"
+        },
+        {
+          "text": "I finished my program in only 8 months",
+          "comment_id": "t1_lx3diny"
+        }
+      ]
+    },
+    {
+      "summary": "Clear pathway to graduate degrees (RN→MSN) and credit transfer options — some students used WGU as an affordable route to advanced degrees.",
+      "evidence": [
+        {
+          "text": "I recently transferred into the MSN program at WGU and am loving it so far! ... I couldn't afford it.",
+          "comment_id": "t1_lx01coa"
+        },
+        {
+          "text": "I also saw the have a direct RN to MSN program and was looking at that as well.",
+          "comment_id": "t1_lx0i03w"
+        }
+      ]
+    }
+  ],
+  "comments": [
+    {
+      "summary": "Most feedback is positive but repeatedly emphasizes that success depends on self‑motivation and time management.",
+      "evidence": [
+        {
+          "text": "depending on how disciplined you are, you can get through courses quickly. Pro tip:",
+          "comment_id": "t1_lwzngzj"
+        },
+        {
+          "text": "WGU is great for those who are motivated.",
+          "comment_id": "t1_lx3h5a6"
+        }
+      ]
+    },
+    {
+      "summary": "Reported completion times vary widely (examples: ~4–5 months anecdote, 8 months, 16 months) — outcomes are individual.",
+      "evidence": [
+        {
+          "text": "I've heard of someone who completed MSN in 5 months.",
+          "comment_id": "t1_lz9fsv9"
+        },
+        {
+          "text": "It took my about 16 months for my BSN.",
+          "comment_id": "t1_lx3vsr2"
+        }
+      ]
+    },
+    {
+      "summary": "Many positive endorsements come from students in other WGU programs (psych, public health), not exclusively nursing, suggesting cross‑program reputation.",
+      "evidence": [
+        {
+          "text": "Though I am at wgu for psych, I can say that their programs are well rounded and the prices are really good.",
+          "comment_id": "t1_lx13kbe"
+        },
+        {
+          "text": "Not a nursing student here, but Public Health. I've found the classes incredibly enjoyable so far!",
+          "comment_id": "t1_lx3s00h"
+        }
+      ]
+    },
+    {
+      "summary": "Side topics and small gaps: requests for student-run Discord channels and limited detailed critiques of the RN-BSN curriculum in this thread.",
+      "evidence": [
+        {
+          "text": "Do you or anyone you know in the BSN program have a good discord channel link?",
+          "comment_id": "t1_m9c0mqj"
+        },
+        {
+          "text": "Did you ever find anything?",
+          "comment_id": "t1_nbgjkie"
+        }
+      ]
+    },
+    {
+      "summary": "Perception that WGU incentivizes quick graduation (framed positively) — commenters note the institution's structure supports finishing efficiently.",
+      "evidence": [
+        {
+          "text": "WGU does not want you in school so that they can collect money; they want y",
+          "comment_id": "t1_lx3h5a6"
+        }
+      ]
+    }
+  ],
+  "verbatim_highlights": [
+    {
+      "text": "The price is definitely right.",
+      "comment_id": "t1_lwzngzj"
+    },
+    {
+      "text": "I LOVED the fact that it was self paced and I could breeze through the courses that I already had experience in.",
+      "comment_id": "t1_lx3vsr2"
+    },
+    {
+      "text": "I finished my program in only 8 months",
+      "comment_id": "t1_lx3diny"
+    }
+  ],
+  "conversation_summary": "The OP is weighing options because their current BSN program is expensive and is considering doing an ASN or switching to WGU's RN‑BSN pathway. Respondents overwhelmingly recommend WGU for its affordability, flexible self‑paced format, and the ability to accelerate coursework if the student is disciplined. Multiple commenters report fast completion times (examples range from a few months to over a year), but emphasize outcomes depend on individual motivation and time commitment. Several answers come from non‑nursing WGU students who praise program quality and price, and some mention straightforward RN→MSN pathways. There are no substantive negative reports in this thread; the main cautions are about the need for self‑discipline and variable individual timelines. A small side thread requests student Discord groups, indicating interest in peer communities."
+}
+
+===== 1ggztkr.json =====
+{
+  "post": {
+    "post_id": "1ggztkr",
+    "title": "WGU NCLEX/licensure in Michigan?",
+    "permalink": "https://reddit.com/r/WGU/comments/1ggztkr/wgu_nclexlicensure_in_michigan/",
+    "created_iso": "",
+    "subreddit": "WGU",
+    "num_comments": 1,
+    "selftext": "Hi, I am from Michigan and I’m very interested in the BSN pre-licensure entry program, WGU is offered in Michigan but I’m not sure if I can take my NCLEX and get a Michigan RN license upon graduation. If I go to WGU and get a BSN in Nursing, will I be able to sit for the NCLEX in Michigan? Will I be able to get a Michigan RN license with a BSN from WGU (western governors university)",
+    "selftext_truncated_for_llm": true
+  },
+  "reasons_to_choose": [
+    {
+      "summary": "WGU publishes state-specific nursing program information (Michigan page) that prospective students can use to check licensure and program completion requirements.",
+      "evidence": [
+        {
+          "text": "Michigan Nursing (WGU program page) link provided as a resource",
+          "comment_id": "t1_lutsmmz"
+        },
+        {
+          "text": "Poster states WGU is offered in Michigan",
+          "comment_id": "post"
+        }
+      ]
+    }
+  ],
+  "comments": [
+    {
+      "summary": "Thread is very small and uninformative — only a single reply that links to the WGU Michigan nursing page without answering the NCLEX/licensure question directly.",
+      "evidence": [
+        {
+          "text": "I don't know much about nursing, but this helps a little bit.",
+          "comment_id": "t1_lutsmmz"
+        },
+        {
+          "text": "WGU is offered in Michigan but I’m not sure if I can take my NCLEX and get a Michigan RN license upon graduation.",
+          "comment_id": "post"
+        }
+      ]
+    },
+    {
+      "summary": "Unclear or incomplete information present (comment text is truncated), indicating potential friction for users seeking quick, authoritative licensure answers from the community.",
+      "evidence": [
+        {
+          "text": "Michigan Nursing | \"Completion of th",
+          "comment_id": "t1_lutsmmz"
+        }
+      ]
+    },
+    {
+      "summary": "Opportunity: participants seeking licensure reassurance are being directed to institutional pages rather than state board or clear step-by-step guidance.",
+      "evidence": [
+        {
+          "text": "Michigan Nursing (WGU program page) link provided as a resource",
+          "comment_id": "t1_lutsmmz"
+        }
+      ]
+    }
+  ],
+  "verbatim_highlights": [
+    {
+      "text": "WGU is offered in Michigan but I’m not sure if I can take my NCLEX and get a Michigan RN license upon graduation.",
+      "comment_id": "post"
+    },
+    {
+      "text": "I don't know much about nursing, but this helps a little bit.",
+      "comment_id": "t1_lutsmmz"
+    },
+    {
+      "text": "Michigan Nursing | \"Completion of th",
+      "comment_id": "t1_lutsmmz"
+    }
+  ],
+  "conversation_summary": "A Michigan-based prospective student asked whether graduating from WGU's pre-licensure BSN allows them to sit for the NCLEX and obtain a Michigan RN license. The only reply did not directly answer the licensure question but linked to WGU's Michigan nursing program page, suggesting institutional documentation as the next step. The thread is minimal and contains truncated/incomplete text, so it fails to provide clear community confirmation about state licensure acceptance. For leadership, this indicates prospective students find WGU's state-specific pages helpful but may still need clearer, explicit guidance about NCLEX eligibility and Michigan Board of Nursing acceptance. There's an opportunity to reduce friction by ensuring the program page and outreach explicitly state licensure pathways and any state-specific requirements. Overall, WGU is perceived as available in Michigan, but the thread shows community responses may default to linking institutional resources rather than giving definitive licensure assurances."
+}
+
+===== 1gm3tuy.json =====
+{
+  "post": {
+    "post_id": "1gm3tuy",
+    "title": "12 classes in 6 months?",
+    "permalink": "https://reddit.com/r/WGU/comments/1gm3tuy/12_classes_in_6_months/",
+    "created_iso": null,
+    "subreddit": null,
+    "num_comments": 4,
+    "selftext": "I am going for RN to BSN have 12 classes 37 CUs. Translates to 1 class every 2 weeks seems do able, but this is my first time with WGU. Seems like it will mostly be a lot of papers to write, but am unsure",
+    "selftext_truncated_for_llm": true
+  },
+  "reasons_to_choose": [
+    {
+      "summary": "WGU pacing can allow very fast progress — commenters report completing classes in days, suggesting the 1-class-every-2-weeks plan is achievable.",
+      "evidence": [
+        {
+          "text": "I am averaging about 3.5 days per class currently so very doable.",
+          "comment_id": "t1_lw0s2ty"
+        },
+        {
+          "text": "Finished class 10 3 hours ago and I still have until January 31st",
+          "comment_id": "t1_lw0eh0z"
+        }
+      ]
+    },
+    {
+      "summary": "Affordability is a motivator for choosing WGU.",
+      "evidence": [
+        {
+          "text": "Ok thanks for the input I’m determined cause I’m cheap lol",
+          "comment_id": "t1_lvzhs3o"
+        }
+      ]
+    }
+  ],
+  "comments": [
+    {
+      "summary": "Original poster expects many papers and is unsure about WGU since this is their first time using it.",
+      "evidence": [
+        {
+          "text": "Seems like it will mostly be a lot of papers to write, but am un",
+          "comment_id": "post"
+        }
+      ]
+    },
+    {
+      "summary": "Multiple respondents caveat that their experience is from different majors, so RN-BSN workload and timelines may differ.",
+      "evidence": [
+        {
+          "text": "Depends on the classes. I’m a different major, but I did 17",
+          "comment_id": "t1_lvzhlnm"
+        },
+        {
+          "text": "I'm in a different major so not sure how the classes compare but I am averaging about 3.5 days per class currently so very doable.",
+          "comment_id": "t1_lw0s2ty"
+        }
+      ]
+    },
+    {
+      "summary": "Small sample size and limited detail — only a few brief replies, so conclusions are tentative.",
+      "evidence": [
+        {
+          "text": "Finished class 10 3 hours ago and I still have until January 31st",
+          "comment_id": "t1_lw0eh0z"
+        },
+        {
+          "text": "Depends on the classes. I’m a different major, but I did 17",
+          "comment_id": "t1_lvzhlnm"
+        }
+      ]
+    }
+  ],
+  "verbatim_highlights": [
+    {
+      "text": "1 class every 2 weeks seems do able",
+      "comment_id": "post"
+    },
+    {
+      "text": "I am averaging about 3.5 days per class currently so very doable.",
+      "comment_id": "t1_lw0s2ty"
+    },
+    {
+      "text": "Finished class 10 3 hours ago and I still have until January 31st",
+      "comment_id": "t1_lw0eh0z"
+    },
+    {
+      "text": "I’m determined cause I’m cheap lol",
+      "comment_id": "t1_lvzhs3o"
+    }
+  ],
+  "conversation_summary": "The OP (RN-to-BSN) plans 12 classes over 6 months and expects many papers; they are new to WGU. Responders generally say the pace is achievable, with one reporting ~3.5 days per class and another noting they finished a class well before the deadline. However, those commenters identify as being in different majors, so applicability to RN-BSN is uncertain. Affordability is noted as a motivating factor by the OP. The thread is small and anecdotal, offering encouraging but limited evidence that an accelerated schedule can work. Leadership should view these signals as positive on speed and cost, but interpret applicability to RN-BSN cautiously and seek RN-BSN–specific feedback or data before changing program messaging."
+}
+
+===== 1gtjju1.json =====
+{
+  "post": {
+    "post_id": "1gtjju1",
+    "title": "MHA vs MBAHM @WGU (with RN-BSN background)",
+    "permalink": "https://reddit.com/r/WGU/comments/1gtjju1/mha_vs_mbahm_wgu_with_rnbsn_background/",
+    "created_iso": "",
+    "subreddit": "r/WGU",
+    "num_comments": 1,
+    "selftext": "I will be graduating with my BSN in May 2025. I’m trying to think long term and I would like to keep options open to work in hospital administration and even hopefully become a Director of Nursing (or similar) later in my career. I’m also interested in health and nursing policy. Right now, I’m considering WGU for my masters, but can’t choose between the MBA in Healthcare Management and the MHA. I do intend to go back for my DNP, but that’s later in life. I want to start my Masters online soon after graduating with my BSN and passing my NCLEX. Just need to pick a degree program. I’ve even briefly contemplated doing both back to back, but I feel like that shouldn’t be necessary, lol.",
+    "selftext_truncated_for_llm": true
+  },
+  "reasons_to_choose": [
+    {
+      "summary": "WGU offers healthcare-focused graduate options (MHA and MBA with healthcare management) so clinicians can pick the track that aligns with administrative career goals.",
+      "evidence": [
+        {
+          "text": "I will be graduating with my BSN in May 2025. I’m trying to think long term and I would like to keep options open to work in hospital administration",
+          "comment_id": "post"
+        }
+      ]
+    },
+    {
+      "summary": "For nurses with a clinical background, the MHA is recommended as the more appropriate WGU graduate pathway for hospital administration roles.",
+      "evidence": [
+        {
+          "text": "With a clinical background,  do the MHA.",
+          "comment_id": "t1_lxrfr7j"
+        }
+      ]
+    }
+  ],
+  "comments": [
+    {
+      "summary": "Respondent advises against pursuing both degrees; practical experience is emphasized over holding multiple graduate degrees.",
+      "evidence": [
+        {
+          "text": "Both aren't necessary.  Experience means more.",
+          "comment_id": "t1_lxrfr7j"
+        }
+      ]
+    },
+    {
+      "summary": "Thread is short and narrowly focused (one poster considering long-term admin options; one concise reply), so insights are limited and anecdotal.",
+      "evidence": [
+        {
+          "text": "I will be graduating with my BSN in May 2025. I’m trying to think long term...",
+          "comment_id": "post"
+        },
+        {
+          "text": "With a clinical background,  do the MHA. Both aren't necessary.  Experience means more.",
+          "comment_id": "t1_lxrfr7j"
+        }
+      ]
+    }
+  ],
+  "verbatim_highlights": [
+    {
+      "text": "With a clinical background,  do the MHA.",
+      "comment_id": "t1_lxrfr7j"
+    },
+    {
+      "text": "Both aren't necessary.  Experience means more.",
+      "comment_id": "t1_lxrfr7j"
+    },
+    {
+      "text": "I will be graduating with my BSN in May 2025. I’m trying to think long term and I would like to keep options open to work in hospital administration",
+      "comment_id": "post"
+    }
+  ],
+  "conversation_summary": "A WGU RN-BSN student is asking whether to pursue an MHA or an MBA with healthcare management to keep administrative career options open. A single respondent recommends the MHA for those with clinical backgrounds and cautions that obtaining both degrees is unnecessary. The commenter stresses that practical experience is more important than holding multiple graduate credentials. The thread is very short (one question, one reply), so conclusions are anecdotal but indicate a preference for clinically aligned administrative degrees. For leadership, the signal is that prospective RN-BSN students seek clear guidance on which WGU graduate path best supports hospital administration careers and value messaging that emphasizes degree alignment and the importance of experience."
+}
+
+===== 1h8xbcp.json =====
+{
+  "post": {
+    "post_id": "1h8xbcp",
+    "title": "NURSING?",
+    "permalink": "https://reddit.com/r/WGU/comments/1h8xbcp/nursing/",
+    "created_iso": "",
+    "subreddit": "WGU",
+    "num_comments": 0,
+    "selftext": "Hello. I’m quite new here. Anyone here in the RN-BSN, ADN-BSN or MSN students?",
+    "selftext_truncated_for_llm": true
+  },
+  "reasons_to_choose": [],
+  "comments": [
+    {
+      "summary": "Thread shows no engagement—no replies to an introductory query from a new student.",
+      "evidence": [
+        {
+          "text": "Hello. I’m quite new here. Anyone here in the RN-BSN, ADN-BSN or MSN students?",
+          "comment_id": "post"
+        }
+      ]
+    },
+    {
+      "summary": "The author is seeking peer connection/information (RN-BSN/ADN-BSN/MSN) suggesting an unmet need for accessible program guidance or community on this subreddit.",
+      "evidence": [
+        {
+          "text": "Anyone here in the RN-BSN, ADN-BSN or MSN students?",
+          "comment_id": "post"
+        }
+      ]
+    },
+    {
+      "summary": "Opportunity for WGU leadership: proactive outreach (reply, resources, FAQ links) could convert queries into positive perceptions given absence of community responses.",
+      "evidence": [
+        {
+          "text": "Hello. I’m quite new here.",
+          "comment_id": "post"
+        }
+      ]
+    }
+  ],
+  "verbatim_highlights": [
+    {
+      "text": "Hello. I’m quite new here.",
+      "comment_id": "post"
+    },
+    {
+      "text": "Anyone here in the RN-BSN, ADN-BSN or MSN students?",
+      "comment_id": "post"
+    }
+  ],
+  "conversation_summary": "This Reddit thread consists only of a single introductory post from a new student asking if others are in RN-BSN/ADN-BSN/MSN programs and has zero comments. There are no peer responses or discussion, indicating low engagement on this topic in the subreddit at the time of posting. The post signals a clear desire for peer connection and program-specific information that is currently unmet in this thread. For leadership, this represents a small but visible opportunity to proactively engage — for example, by responding with program details, linking FAQs, or encouraging community discussion. The lack of replies could reflect timing, low subreddit activity, or fragmentation of where nursing students seek information. Taking simple outreach actions could improve perceived accessibility and support for prospective or new students. Tracking similar threads could identify whether this is a recurring gap in community support."
+}
+
+===== 1i2ealw.json =====
+{
+  "post": {
+    "post_id": "1i2ealw",
+    "title": "RN to BSN?",
+    "permalink": "https://reddit.com/r/WGU/comments/1i2ealw/rn_to_bsn/",
+    "created_iso": "",
+    "subreddit": "",
+    "num_comments": 1,
+    "selftext": "How is the RN to BSN program? Can I do this while doing a new grad residency ? Can I accelerate finishing the BSN in one term ? I’m in CA.",
+    "selftext_truncated_for_llm": true
+  },
+  "reasons_to_choose": [
+    {
+      "summary": "Reported ability to complete WGU RN-to-BSN in an accelerated timeframe (6 months).",
+      "evidence": [
+        {
+          "text": "I completed the program in 2020 in 6 months while working full time.",
+          "comment_id": "t1_m7e95cp"
+        }
+      ]
+    },
+    {
+      "summary": "Program can be completed while working full time (flexible scheduling/work-study compatibility).",
+      "evidence": [
+        {
+          "text": "I completed the program in 2020 in 6 months while working full time.",
+          "comment_id": "t1_m7e95cp"
+        }
+      ]
+    }
+  ],
+  "comments": [
+    {
+      "summary": "New clinical requirements have been added since the commenter graduated, creating uncertainty about current difficulty and completion logistics.",
+      "evidence": [
+        {
+          "text": "There are new clinical requirements that were not present when I completed the program, so I can’t comment on the difficulty.",
+          "comment_id": "t1_m7e95cp"
+        }
+      ]
+    },
+    {
+      "summary": "OP asked specifically about doing the program during a new grad residency and accelerating to finish in one term (location: CA), but the thread contains only one anecdote and doesn't answer the residency question directly.",
+      "evidence": [
+        {
+          "text": "How is the RN to BSN program? Can I do this while doing a new grad residency ? Can I accelerate finishing the BSN in one term ? I’m in CA.",
+          "comment_id": "post"
+        },
+        {
+          "text": "I completed the program in 2020 in 6 months while working full time. There are new clinical requirements that were not present when I completed the program, so I can’t comment on the difficulty. The r",
+          "comment_id": "t1_m7e95cp"
+        }
+      ]
+    },
+    {
+      "summary": "Very small sample size: single, slightly truncated comment limits confidence; leadership should verify current clinical-hour policy before relying on this anecdote.",
+      "evidence": [
+        {
+          "text": "I completed the program in 2020 in 6 months while working full time. There are new clinical requirements that were not present when I completed the program, so I can’t comment on the difficulty. The r",
+          "comment_id": "t1_m7e95cp"
+        }
+      ]
+    }
+  ],
+  "verbatim_highlights": [
+    {
+      "text": "I completed the program in 2020 in 6 months while working full time.",
+      "comment_id": "t1_m7e95cp"
+    },
+    {
+      "text": "There are new clinical requirements that were not present when I completed the program",
+      "comment_id": "t1_m7e95cp"
+    },
+    {
+      "text": "Can I do this while doing a new grad residency ? Can I accelerate finishing the BSN in one term ?",
+      "comment_id": "post"
+    }
+  ],
+  "conversation_summary": "The OP asked whether the RN-to-BSN can be done during a new grad residency and whether it can be accelerated (OP is in CA). One commenter reported completing WGU's RN-to-BSN in 6 months while working full time (graduated in 2020), indicating potential for fast completion and flexibility. The commenter also noted that new clinical requirements have since been added, so they could not speak to current difficulty. The thread is a single anecdote and doesn't directly answer the residency-overlap question; it offers low-confidence positive signals but highlights policy changes. For leadership, the takeaway is that WGU is perceived as flexible and capable of accelerated completion by alumni, but up-to-date clinical-hour policy and residency compatibility should be verified and communicated. Given the limited data, consider gathering more recent student experiences or clarifying clinical requirement changes publicly to address prospective-student concerns."
+}
+
+===== 1iau6zj.json =====
+{
+  "post": {
+    "post_id": "1iau6zj",
+    "title": "Inactivity Withdrawal",
+    "permalink": "https://reddit.com/r/WGU/comments/1iau6zj/inactivity_withdrawal/",
+    "created_iso": "",
+    "subreddit": "WGU",
+    "num_comments": 7,
+    "selftext": "I'm at the end of the RN-BSN program which involves putting together an extensive professional portfolio and obtaining off-site certifications. I had been working on both of these for a couple months, probably clocking about 5-10 hours per week. Few days ago I get an email saying they will be withdrawing me from the program due to academic inactivity with an option to appeal. So of course I immediately respond, frustrated, mostly confused. Get a call from WGU staff who said I hadn't done anything that could be considered \"academic activity\" and my professor was concerned so she reported me to the department that carries out these inactivity withdrawals. No explanation as to what counts as \"academic activity\" could be provided. The projects I'm working on don't involve any course content and are entirely off the WGU site. Throughout the course, my instructor had changed 3 times and I only ever got copy/pasted emails from them about holiday availability. I regularly check my school email, but decided to check it very thoroughly to see if I missed something, but nope. Everything was fine after I explained this, but had I not responded immediately, I would have had to appeal in time. Not too sure what that would entail, but sounded like a pain. Anyway, check your email daily I guess haha.",
+    "selftext_truncated_for_llm": true
+  },
+  "reasons_to_choose": [
+    {
+      "summary": "Keep mentors/CI informed with simple weekly updates to avoid administrative issues (mentors are reachable and matter for status).",
+      "evidence": [
+        {
+          "text": "draft a weekly \"what i'm doing\" email for your Mentor and maybe the CI for a class",
+          "comment_id": "t1_m9ed14l"
+        }
+      ]
+    },
+    {
+      "summary": "The LMS/activity tracking is flexible—brief interaction (clicking around or opening pages/tests) can satisfy activity checks and prevent withdrawal.",
+      "evidence": [
+        {
+          "text": "Those that are in the program, just need to click on a page(s), a test something for a few minutes . They can see anything you clicked",
+          "comment_id": "t1_m9eqlbu"
+        },
+        {
+          "text": "All you need to do is log into your current course and click around inside the course. WGU has no way of knowing that you're on a",
+          "comment_id": "t1_m9f9zyo"
+        }
+      ]
+    },
+    {
+      "summary": "Instructors/assessors proactively follow up about progress (e.g., exam retakes), indicating active oversight and support.",
+      "evidence": [
+        {
+          "text": "I was getting annoyed when the instructor kept asking me when I planned to take my retake exam.",
+          "comment_id": "t1_m9dht74"
+        }
+      ]
+    }
+  ],
+  "comments": [
+    {
+      "summary": "Clinical placement / preceptor sourcing can be a major bottleneck (local scarcity, long searches, rejections) and may extend time-to-completion.",
+      "evidence": [
+        {
+          "text": "About to start term 2 and have not found a clinical site..it’s so frustrating.",
+          "comment_id": "t1_m9kbsfa"
+        },
+        {
+          "text": "Took me 6 months of actively looking and getting turned down.",
+          "comment_id": "t1_m9kla4a"
+        },
+        {
+          "text": "Omg my preceptor telling me to take a month off. I’m so annoyed. Do they even check for affiliation?",
+          "comment_id": "t1_m9qqx2i"
+        }
+      ]
+    },
+    {
+      "summary": "Students are uncertain about what counts as sufficient activity and feel monitored; some advice is informal (clicking suffices) rather than centralized guidance.",
+      "evidence": [
+        {
+          "text": "All you need to do is log into your current course and click around inside the course.",
+          "comment_id": "t1_m9f9zyo"
+        },
+        {
+          "text": "They can see anything you clicked and that will show you in a",
+          "comment_id": "t1_m9eqlbu"
+        }
+      ]
+    },
+    {
+      "summary": "There is occasional perception or suspicion that administrative/pacing issues could be structured in ways that lead to extra terms or fees.",
+      "evidence": [
+        {
+          "text": "I almost think they plan it to take that long so you buy an extra term.",
+          "comment_id": "t1_m9kla4a"
+        }
+      ]
+    }
+  ],
+  "verbatim_highlights": [
+    {
+      "text": "draft a weekly \"what i'm doing\" email for your Mentor",
+      "comment_id": "t1_m9ed14l"
+    },
+    {
+      "text": "All you need to do is log into your current course and click around inside the course.",
+      "comment_id": "t1_m9f9zyo"
+    },
+    {
+      "text": "Took me 6 months of actively looking and getting turned down.",
+      "comment_id": "t1_m9kla4a"
+    }
+  ],
+  "conversation_summary": "The thread centers on a student facing inactivity withdrawal near program completion and peers offering pragmatic fixes and warnings. Several commenters stress simple mitigations: keep mentors/CI informed (weekly status emails) and perform minimal LMS actions (clicking around) to register activity. Others note proactive instructor follow-up (e.g., on retake exams), showing some oversight but also creating student friction. A separate recurring concern is difficulty securing clinical sites/preceptors—one commenter reported six months of rejections and suspicion that delays can increase time/term costs. Overall the tone mixes practical, tactical advice to avoid administrative penalties with frustration about placement logistics and opaque monitoring. Implications for leadership: clarify activity rules and communication expectations, streamline clinical placement supports, and address perceptions that process issues can drive extra terms or costs."
+}
+
+===== 1ipzgri.json =====
+{
+  "post": {
+    "post_id": "1ipzgri",
+    "title": "Help? New student looking to accelerate.",
+    "permalink": "https://reddit.com/r/WGU_Accelerators/comments/1ipzgri/help_new_student_looking_to_accelerate/",
+    "created_iso": "",
+    "subreddit": "",
+    "num_comments": 6,
+    "selftext": "Hey all, thanks for your help in advance. I'm an RN looking to do the RN-BSN, preferably in 6 months as I'm looking to apply to medical school by end of year. I am very driven and believe I'm capable of doing it, I did a ton of accelerated class work at my state community college and always got done early. I just love learning, it's very enjoyable for me and I have no problem doing it 8 hours a day honestly. What's the best way to do this? I just enrolled and got my degree plan, am I supposed to contact the program mentor? It did say in the orientation guide that if I finish all my classes early I can get a one time move for the rest of the classes? Is this correct? Please let me know your best advice, thank you",
+    "selftext_truncated_for_llm": true
+  },
+  "reasons_to_choose": [
+    {
+      "summary": "Transfer credit can reduce course load and support faster degree completion (commenter transferred 9 credits).",
+      "evidence": [
+        {
+          "text": "Hey so I transferred 9 credits into a bachelors had no degree prior and limited experience before I started my program (a different program than yours) biggest thing:\nTalk to your mentor and change me",
+          "comment_id": "t1_mcxj227"
+        }
+      ]
+    },
+    {
+      "summary": "Mentors can release an entire term at once if they believe a student can handle it, enabling accelerated progression.",
+      "evidence": [
+        {
+          "text": "This is incorrect as Tier 1 has less power than your mentor. Your mentor can release a full term at a time if they feel you can handle it. Tier 1 is there so you don’t have to contact them as much but",
+          "comment_id": "t1_n7dwsak"
+        }
+      ]
+    },
+    {
+      "summary": "Operational support (help desk / Tier 1) can be used to quickly open the next course after completion, offering another path to speed.",
+      "evidence": [
+        {
+          "text": "They set my up with one class at a time. As soon as I finished a class I would call the help desk and they would open the next class. The mentors don't really",
+          "comment_id": "t1_mcx53tf"
+        }
+      ]
+    }
+  ],
+  "comments": [
+    {
+      "summary": "Students report variability in mentor responsiveness and approach; some find Tier 1 faster, others say mentors have more authority.",
+      "evidence": [
+        {
+          "text": "That's great for you. That was not my experience, so I found going to Tier 1 faster than going to my mentor. I'm sure mentors vary and some are more helpful or more lenient than others. You lucked out",
+          "comment_id": "t1_n7folvx"
+        }
+      ]
+    },
+    {
+      "summary": "Poster’s goal context: wants to complete RN-BSN in ~6 months to apply to medical school by year-end.",
+      "evidence": [
+        {
+          "text": "I'm an RN looking to do the RN-BSN, preferably in 6 months as I'm looking to apply to medical school by end of year. I am very driven and believe I'm capable",
+          "comment_id": "post"
+        }
+      ]
+    },
+    {
+      "summary": "Thread is small and mostly peer-to-peer experiential tips rather than formal policy; readers rely on individual anecdotes.",
+      "evidence": [
+        {
+          "text": "Thank you so much!",
+          "comment_id": "t1_mcznym0"
+        }
+      ]
+    }
+  ],
+  "verbatim_highlights": [
+    {
+      "text": "I transferred 9 credits into a bachelors had no degree prior",
+      "comment_id": "t1_mcxj227"
+    },
+    {
+      "text": "Your mentor can release a full term at a time if they feel you can handle it.",
+      "comment_id": "t1_n7dwsak"
+    },
+    {
+      "text": "As soon as I finished a class I would call the help desk and they would open the next class.",
+      "comment_id": "t1_mcx53tf"
+    }
+  ],
+  "conversation_summary": "The OP wants to complete an RN-BSN quickly (about six months) to apply to medical school. Responders offer practical, experience-based advice: transfer credits can shave time off the degree, mentors have the authority to release full terms for accelerated pacing, and contacting help desk/Tier 1 has worked for some students to get the next class opened promptly. There is conflicting anecdotal information about the relative power of Tier 1 vs mentors and clear variability in mentor helpfulness and leniency. Overall the thread portrays WGU as flexible and capable of supporting fast completion, but dependent on staff/mentor practices and individual cases. Leadership takeaway: the ability to transfer credits and staff processes (mentors and help desk) are key decision drivers for prospective accelerators; improving consistency and clear communication about mentor vs Tier 1 roles would strengthen reputation."
+}
+
+===== 1iyysxz.json =====
+{
+  "post": {
+    "post_id": "1iyysxz",
+    "title": "WGU RN to BSN program in 2025",
+    "permalink": "https://reddit.com/r/WGU/comments/1iyysxz/wgu_rn_to_bsn_program_in_2025/",
+    "created_iso": "",
+    "subreddit": "WGU",
+    "num_comments": 21,
+    "selftext": "Hi, I am a nurse with my ADN working in CA. I am looking into the RN to BSN program at WGU. I have been reading a lot of mixed reviews. Overall, I think I am still leaning towards going here because it seems to be the most affordable/flexible option. I spoke to someone at WGU and she told me the program requires 90 clinical hours. On their website, it says 35 hours. I asked someone on their website and they also told me 35 hours. Did this change recently? Also, I read that this was a challenge for many students. Can anyone share some thoughts on their experiences with WGU? Thank you!",
+    "selftext_truncated_for_llm": true
+  },
+  "reasons_to_choose": [
+    {
+      "summary": "Positive employer endorsement of a WGU BSN/MSN graduate, indicating graduates perform well in hiring contexts.",
+      "evidence": [
+        {
+          "text": "she had nothing but great things",
+          "comment_id": "t1_mf7tx7w"
+        }
+      ]
+    },
+    {
+      "summary": "Clear, flexible field experience requirement: 35 clinical/field hours standard, with a 90-hour option for California public health nurse certification.",
+      "evidence": [
+        {
+          "text": "There is 35 hrs of clinical hours required. Also, if you’re in CA and would like to get your public health certificate then it’s 90 hrs.",
+          "comment_id": "t1_mhu00o5"
+        },
+        {
+          "text": "I was told by enrollment that it’s 35 hrs of “field experience” unless you want/need a California public health nurse certification then it’s 90 hrs.",
+          "comment_id": "t1_msd0eue"
+        }
+      ]
+    },
+    {
+      "summary": "Frequent cohort start dates and early advisor assignment, enabling quick enrollment and onboarding.",
+      "evidence": [
+        {
+          "text": "I’m starting OCT 1st RN-BSN.",
+          "comment_id": "t1_n93muyl"
+        },
+        {
+          "text": "I have been assigned a academic advisor for RN -BSN Oct 1st start date.",
+          "comment_id": "t1_neflwpp"
+        }
+      ]
+    },
+    {
+      "summary": "Active peer support interest (Reddit/Discord start-groups) that can aid retention and student experience.",
+      "evidence": [
+        {
+          "text": "if there is a reddit group plz share!!!! for oct 1 start date",
+          "comment_id": "t1_ndpziut"
+        },
+        {
+          "text": "Can we have have our Reddit WGU RN - BSN October 1st start group for support.",
+          "comment_id": "t1_nd854pw"
+        }
+      ]
+    }
+  ],
+  "comments": [
+    {
+      "summary": "OP noted mixed reviews in general, indicating prospective students are weighing varied external opinions before enrolling.",
+      "evidence": [
+        {
+          "text": "I have been reading a lot of mixed reviews.",
+          "comment_id": "post"
+        }
+      ]
+    },
+    {
+      "summary": "Some uncertainty/clarification needed around field experience vs. public health certification requirements — consistent answers appeared but this is a common admissions question.",
+      "evidence": [
+        {
+          "text": "i was told the 35 hours is “field experience” that consists of some sort of research project, in lieu of traditional cli",
+          "comment_id": "t1_mhblx4h"
+        },
+        {
+          "text": "It’s worth it if you want the option to work in public health nursing. For me, I do want that option so I plan to do the 90 hrs.",
+          "comment_id": "t1_n272kmd"
+        }
+      ]
+    },
+    {
+      "summary": "Practical placement ideas for field hours were shared (public health departments, Red Cross, WIC, home care, schools), useful for program guidance and student communications.",
+      "evidence": [
+        {
+          "text": "Community/county health departments\nAmerican Red Cross\nWIC clinics\nHome-care nurses\nPublic health clinics\nWorking with school nurse\nAdult daycare centers\nWorking with parish nurse\nDomestic violence ce",
+          "comment_id": "t1_mhu28w0"
+        }
+      ]
+    },
+    {
+      "summary": "Onboarding tasks (paperwork, orientation) are top-of-mind for incoming students and influence early satisfaction.",
+      "evidence": [
+        {
+          "text": "Still trying to get all my paperwork done.",
+          "comment_id": "t1_nadvxly"
+        },
+        {
+          "text": "Yep! Just finished orientation. Ready to get going.",
+          "comment_id": "t1_nehh73n"
+        }
+      ]
+    },
+    {
+      "summary": "High demand for cohort-specific communication channels (Reddit/Discord) suggests students value peer networks during the program.",
+      "evidence": [
+        {
+          "text": "We can do a discord for Oct 1st start date",
+          "comment_id": "t1_nefuzy6"
+        },
+        {
+          "text": "please let me know !!",
+          "comment_id": "t1_ndpzgs5"
+        }
+      ]
+    }
+  ],
+  "verbatim_highlights": [
+    {
+      "text": "she had nothing but great things",
+      "comment_id": "t1_mf7tx7w"
+    },
+    {
+      "text": "There is 35 hrs of clinical hours required. Also, if you’re in CA and would like to get your public health certificate then it’s 90 hrs.",
+      "comment_id": "t1_mhu00o5"
+    },
+    {
+      "text": "Can we have have our Reddit WGU RN - BSN October 1st start group for support.",
+      "comment_id": "t1_nd854pw"
+    }
+  ],
+  "conversation_summary": "The thread is dominated by incoming students preparing for an October 1 RN-BSN start at WGU; many are coordinating paperwork, orientation, and are seeking cohort-specific support channels (Reddit/Discord). Several commenters clarified clinical requirements: a standard 35-hour field experience, with a 90-hour pathway for California public health nurse certification, and offered potential placement sites. An employer-commenter reported a positive hiring impression of a WGU BSN/MSN graduate, which surfaced as a practical endorsement. Multiple students reported early assignment of academic advisors, reinforcing quick onboarding. Overall the conversation focuses on logistics, peer support, and certification details rather than academic quality debates; the OP’s initial note about mixed reviews remains but the thread provided clear operational information that could reduce applicant uncertainty."
+}
+
+===== 1j4yine.json =====
+{
+  "post": {
+    "post_id": "1j4yine",
+    "title": "BSN Program",
+    "permalink": "https://reddit.com/r/WGU/comments/1j4yine/bsn_program/",
+    "created_iso": "",
+    "subreddit": "WGU",
+    "num_comments": 0,
+    "selftext": "is there anyone in here who is currently or who graduated from the BSN program who didn’t already have their RN or a job at the hospital? Looking for your experience!",
+    "selftext_truncated_for_llm": true
+  },
+  "reasons_to_choose": [],
+  "comments": [],
+  "verbatim_highlights": [],
+  "conversation_summary": "The original poster asked whether anyone in or graduated from the BSN program did so without already holding an RN license or an existing hospital job and requested accounts of their experience. The thread contains zero comments and therefore provides no community answers, testimonials, or concerns to evaluate. Because there is no user-provided evidence in this thread, no specific program strengths, weaknesses, timelines, or outcomes can be inferred. For leadership, the lack of responses suggests either low visibility of this subreddit among prospective students or insufficient engagement on this topic. This single-post thread is neutral and non-informative for reputation analysis; follow-up outreach or a seeded response with program FAQs, career outcomes, and pathways for non-RN entrants would be needed to capture useful data."
+}
+
+===== 1ja0zrw.json =====
+{
+  "post": {
+    "post_id": "1ja0zrw",
+    "title": "Finally done!",
+    "permalink": "https://reddit.com/r/WGU/comments/1ja0zrw/finally_done/",
+    "created_iso": "",
+    "subreddit": "WGU",
+    "num_comments": 20,
+    "selftext": "I did my RN to MSN got my BSN while going through the program. Almost 3 1/2 years later had lots of family stuff that happened, which delayed school at times and had to take time off. It feels great being done.",
+    "selftext_truncated_for_llm": true
+  },
+  "reasons_to_choose": [
+    {
+      "summary": "Flexible pacing that accommodates life interruptions (ability to take time off and resume)",
+      "evidence": [
+        {
+          "text": "Almost 3 1/2 years later had lots of family stuff that happened, which delayed school at times and had to take time off.",
+          "comment_id": "post"
+        }
+      ]
+    },
+    {
+      "summary": "Stackable pathway: RN-to-MSN program allowed earning a BSN en route",
+      "evidence": [
+        {
+          "text": "I did my RN to MSN got my BSN while going through the program.",
+          "comment_id": "post"
+        }
+      ]
+    },
+    {
+      "summary": "Active, supportive peer community that publicly celebrates completions (positive social proof)",
+      "evidence": [
+        {
+          "text": "Congratulations! Hope you're rewarding yourself for your success",
+          "comment_id": "t1_mhhui90"
+        },
+        {
+          "text": "Congrats I’m 4 classes away 1 year in. Please celebrate your accomplishments.",
+          "comment_id": "t1_mhiprov"
+        }
+      ]
+    }
+  ],
+  "comments": [
+    {
+      "summary": "Thread is uniformly positive and celebratory with no criticisms or concerns raised",
+      "evidence": [
+        {
+          "text": "Congrats 🎉",
+          "comment_id": "t1_mhni6a6"
+        },
+        {
+          "text": "CONGRATS !!!!",
+          "comment_id": "t1_mhiel52"
+        }
+      ]
+    },
+    {
+      "summary": "Many comments are short, generic congratulatory messages—limited substantive feedback about program specifics",
+      "evidence": [
+        {
+          "text": "Congrats!!!",
+          "comment_id": "t1_mhhu3n3"
+        },
+        {
+          "text": "Way to go!",
+          "comment_id": "t1_mhhwfhx"
+        }
+      ]
+    },
+    {
+      "summary": "At least one commenter is an active student nearing completion, indicating current enrollment and peer identification",
+      "evidence": [
+        {
+          "text": "Congrats I’m 4 classes away 1 year in. Please celebrate your accomplishments.",
+          "comment_id": "t1_mhiprov"
+        }
+      ]
+    },
+    {
+      "summary": "Original post indicates non-linear completion timeline (3.5 years) which may reflect program flexibility but also variable time-to-degree",
+      "evidence": [
+        {
+          "text": "Almost 3 1/2 years later had lots of family stuff that happened, which delayed school at times and had to take time off.",
+          "comment_id": "post"
+        }
+      ]
+    },
+    {
+      "summary": "Post text appears truncated (ends mid-word), so some context/details about the finish/next steps are missing",
+      "evidence": [
+        {
+          "text": "It feels great b",
+          "comment_id": "post"
+        }
+      ]
+    }
+  ],
+  "verbatim_highlights": [
+    {
+      "text": "I did my RN to MSN got my BSN while going through the program.",
+      "comment_id": "post"
+    },
+    {
+      "text": "Almost 3 1/2 years later had lots of family stuff that happened, which delayed school at times and had to take time off.",
+      "comment_id": "post"
+    },
+    {
+      "text": "Congratulations! Hope you're rewarding yourself for your success",
+      "comment_id": "t1_mhhui90"
+    },
+    {
+      "text": "Congrats I’m 4 classes away 1 year in. Please celebrate your accomplishments.",
+      "comment_id": "t1_mhiprov"
+    }
+  ],
+  "conversation_summary": "The original poster announced completion of an RN-to-MSN program and noted they earned a BSN during the process, with a roughly 3.5-year timeline due to family interruptions and taking time off. The subreddit responded with uniformly positive, short congratulatory comments and peer encouragement; no negative feedback or program criticisms appeared. The post highlights two decision drivers for prospective students: a stackable credential pathway (BSN within RN-to-MSN) and flexible pacing that allows breaks and resumption. The thread contains limited substantive program details beyond timeline and degree stacking, and the post text appears truncated so some context is missing. Overall, the conversation functions as positive social proof and morale support rather than a detailed assessment of curriculum or outcomes."
+}
+
+===== 1jdtlmj.json =====
+{
+  "post": {
+    "post_id": "1jdtlmj",
+    "title": "WGU BSN Pre-Licensure 2025 Cohort",
+    "permalink": "https://reddit.com/r/WGU/comments/1jdtlmj/wgu_bsn_prelicensure_2025_cohort/",
+    "created_iso": "",
+    "subreddit": "WGU",
+    "num_comments": 0,
+    "selftext": "Looking for fellow students starting their BSN Pre-Licensure/ RN-BSN at WGU this year! I start my program in April and would love to build a community. I am in Utah so there is where my schooling/ clinicals will be based out of. I have a few other degrees so while I am starting the Pre-licensure program, I was able to shave 1.5 years off my degree so I am only a semester away from the core nursing curriculum. Let's connect and support each other!",
+    "selftext_truncated_for_llm": true
+  },
+  "reasons_to_choose": [
+    {
+      "summary": "Students join WGU for cohort-style peer networking and community while starting BSN Pre-Licensure / RN-BSN programs.",
+      "evidence": [
+        {
+          "text": "Looking for fellow students starting their BSN Pre-Licensure/ RN-BSN at WGU this year!",
+          "comment_id": "post"
+        }
+      ]
+    },
+    {
+      "summary": "WGU offers specific program entry points and start timing (student references an April start), suggesting scheduling flexibility that attracts enrollees.",
+      "evidence": [
+        {
+          "text": "I start my program in April",
+          "comment_id": "post"
+        },
+        {
+          "text": "BSN Pre-Licensure/ RN-BSN",
+          "comment_id": "post"
+        }
+      ]
+    }
+  ],
+  "comments": [
+    {
+      "summary": "The thread shows zero engagement (no replies), indicating limited subreddit interaction for incoming BSN cohorts.",
+      "evidence": [
+        {
+          "text": "num_comments: 0",
+          "comment_id": "post"
+        }
+      ]
+    },
+    {
+      "summary": "Author is seeking geographically local peers (mentions Utah), signaling interest in local clinical/peer coordination despite WGU's online model.",
+      "evidence": [
+        {
+          "text": "I am in Utah so there is where my schooling/ cli",
+          "comment_id": "post"
+        }
+      ]
+    },
+    {
+      "summary": "Original post text appears truncated, which reduces clarity and may hinder connection-building.",
+      "evidence": [
+        {
+          "text": "I am in Utah so there is where my schooling/ cli",
+          "comment_id": "post"
+        }
+      ]
+    }
+  ],
+  "verbatim_highlights": [
+    {
+      "text": "Looking for fellow students starting their BSN Pre-Licensure/ RN-BSN at WGU this year!",
+      "comment_id": "post"
+    },
+    {
+      "text": "I start my program in April",
+      "comment_id": "post"
+    },
+    {
+      "text": "I am in Utah",
+      "comment_id": "post"
+    }
+  ],
+  "conversation_summary": "This is an introductory/recruitment post from an incoming WGU BSN Pre-Licensure/RN-BSN student seeking peers and community; the author notes an April start and that they are located in Utah. The thread contains no comments, showing minimal engagement on the subreddit for this cohort request. The post highlights student demand for cohort connections and local clinical coordination even within WGU's online structure. The selftext appears truncated, which reduces clarity and may have contributed to the lack of responses. For leadership, the thread suggests unmet needs around official or visible new-student cohort-building and localized support channels. Overall, it signals prospective students value peer networks and flexible start options but may struggle to find them organically on public channels."
+}
+
+===== 1jlr5ul.json =====
+{
+  "post": {
+    "post_id": "1jlr5ul",
+    "title": "BSN with WGU, MSN elsewhere?",
+    "permalink": "https://reddit.com/r/WGU/comments/1jlr5ul/bsn_with_wgu_msn_elsewhere/",
+    "created_iso": "",
+    "subreddit": "r/WGU",
+    "num_comments": 0,
+    "selftext": "Hi everyone, I have some questions about WGU So right now I have an ADN and I am an RN First is it true that you can get your rn to BSN with wgu in 6months? I have no social life so I don’t mind writing a few essays every week if I can get my BSN in less time. Also if anyone here is a disabled veteran were you able to get more FAFSA benefits with this school? I used my GI bill for my associates and have 9 months left and I want to save that for my MSN so I want as many breaks for my BSN financially as I can get Lastly if anyone has a BSN from here and is pursing your masters else where was is difficult to transfer? I’m hearing wgu doesn’t do letter grades it’s just pass or fail? I would like to get my msn with Penn so I just want to see if a BSN from Wgu would even transfer Thank you in advance!",
+    "selftext_truncated_for_llm": true
+  },
+  "reasons_to_choose": [
+    {
+      "summary": "Prospective students value the potential to complete the RN-to-BSN quickly (claim of ~6 months).",
+      "evidence": [
+        {
+          "text": "First is it true that you can get your rn to BSN with wgu in 6months?",
+          "comment_id": "post"
+        }
+      ]
+    },
+    {
+      "summary": "WGU is seen as a fit for highly self-directed students willing to do significant writing and study outside social commitments.",
+      "evidence": [
+        {
+          "text": "I have no social life so I don’t mind writi",
+          "comment_id": "post"
+        }
+      ]
+    }
+  ],
+  "comments": [
+    {
+      "summary": "The thread is an unanswered inquiry (no comments), indicating unmet informational needs about timeline, workload, and fit.",
+      "evidence": [
+        {
+          "text": "post has zero comments",
+          "comment_id": "post"
+        }
+      ]
+    },
+    {
+      "summary": "Original post is truncated/missing detail on workload and intent (MSN plans referenced in title but not expanded), reducing clarity for responders.",
+      "evidence": [
+        {
+          "text": "BSN with WGU, MSN elsewhere?",
+          "comment_id": "post"
+        },
+        {
+          "text": "I have no social life so I don’t mind writi",
+          "comment_id": "post"
+        }
+      ]
+    }
+  ],
+  "verbatim_highlights": [
+    {
+      "text": "is it true that you can get your rn to BSN with wgu in 6months?",
+      "comment_id": "post"
+    },
+    {
+      "text": "I have no social life so I don’t mind writi",
+      "comment_id": "post"
+    }
+  ],
+  "conversation_summary": "This thread is a single-question post from an ADN-prepared RN asking whether WGU allows an RN-to-BSN completion in about six months and noting willingness to do considerable writing. There are no comments, so the Reddit community did not provide answers or perspectives. The post signals that speed-to-degree and self-paced, writing-intensive formats are decision drivers for this prospective student. Lack of replies indicates an unmet need for clear, accessible information about typical completion timelines, workload expectations, and how WGU fits with future MSN plans. The truncated selftext and absent detail reduce clarity for potential responders. For leadership, this represents both a demand signal (students seeking accelerated, self-directed options) and an opportunity to populate FAQs or outreach materials that address timelines, workload, and transitions to MSN programs. Enhancing visible guidance could reduce unanswered queries and shape reputation around timeframe transparency and student fit."
+}
+
+===== 1k2dcvl.json =====
+{
+  "post": {
+    "post_id": "1k2dcvl",
+    "title": "NP, DNP, FNP universities that accept a BSN from WGU",
+    "permalink": "https://reddit.com/r/WGU/comments/1k2dcvl/np_dnp_fnp_universities_that_accept_a_bsn_from_wgu/",
+    "created_iso": null,
+    "subreddit": "WGU",
+    "num_comments": 1,
+    "selftext": "HI! I am finishing my pre-nursing credits to transfer to WGU's nursing program. They accept credits from [Sophia.org/Study.com](http://Sophia.org/Study.com) and [Straighterline.com](http://Straighterline.com) and I only have 6 classes left to take to transfer into their BSN program. My hesitation is that one day after I graduate from my BSN from WGU, while I have seen many NP, DNP, and FNP's get accepted into their programs after going to WGU for their BSN--- is that I am worried some universities will not accept me later on with these 6 classes done at study/sophia/straighterline.com. Has anyone taken pre-nursing courses from one of these websites, finished their BSN, and had any trouble being accepted into NP, DNP, or FNP programs? I have seen one person so far that got their RN-BSN from WGU and got accepted at UNC for their DNP program, but I do not know if they took any credits from any of the above websites. Duke's DNP program, for instance, looks into every credit received toward a BSN, and does not accept any credits from Sophia/Study.com. Thank you!",
+    "selftext_truncated_for_llm": true
+  },
+  "reasons_to_choose": [
+    {
+      "summary": "WGU accepts transfer credits from third-party providers (Sophia.org, Study.com, Straighterline), showing flexibility in credit transfer.",
+      "evidence": [
+        {
+          "text": "They accept credits from [Sophia.org/Study.com] and [Straighterline.com]",
+          "comment_id": "post"
+        }
+      ]
+    },
+    {
+      "summary": "Admissions to NP/DNP/FNP programs appear to hinge on GPA thresholds (3.0), implying WGU graduates with sufficient GPA remain competitive.",
+      "evidence": [
+        {
+          "text": "The GPA is 3.0 no matter what. So if that’s competitive for the program than that’s what it is.",
+          "comment_id": "t1_mnt73dr"
+        }
+      ]
+    }
+  ],
+  "comments": [
+    {
+      "summary": "Thread is minimal and offers little concrete list of graduate programs that accept WGU BSNs — the OP requests schools but no responses provided beyond GPA comment.",
+      "evidence": [
+        {
+          "text": "NP, DNP, FNP universities that accept a BSN from WGU",
+          "comment_id": "post"
+        },
+        {
+          "text": "The GPA is 3.0 no matter what. So if that’s competitive for the program than that’s what it is.",
+          "comment_id": "t1_mnt73dr"
+        }
+      ]
+    },
+    {
+      "summary": "Missing context: thread does not address accreditation, state authorization, clinical requirements, or specific universities — gaps leaders should note when assessing reputation impact.",
+      "evidence": [
+        {
+          "text": "NP, DNP, FNP universities that accept a BSN from WGU",
+          "comment_id": "post"
+        }
+      ]
+    },
+    {
+      "summary": "The OP highlights WGU's transfer-credit flexibility, which can be a decision driver for prospective students evaluating pathways to graduate nursing programs.",
+      "evidence": [
+        {
+          "text": "They accept credits from [Sophia.org/Study.com] and [Straighterline.com]",
+          "comment_id": "post"
+        }
+      ]
+    },
+    {
+      "summary": "Low engagement on this topic in the thread suggests either uncertainty among Reddit users or a need for a curated resource listing graduate programs that accept WGU BSNs.",
+      "evidence": [
+        {
+          "text": "num_comments: 1",
+          "comment_id": "post"
+        }
+      ]
+    }
+  ],
+  "verbatim_highlights": [
+    {
+      "text": "They accept credits from [Sophia.org/Study.com] and [Straighterline.com]",
+      "comment_id": "post"
+    },
+    {
+      "text": "The GPA is 3.0 no matter what.",
+      "comment_id": "t1_mnt73dr"
+    }
+  ],
+  "conversation_summary": "The OP asked which NP/DNP/FNP universities accept a BSN from WGU and noted WGU accepts transfer credits from providers like Sophia/Study.com and Straighterline. The only reply emphasized that a 3.0 GPA is the baseline for competitiveness in such programs, suggesting program admissions hinge on GPA more than school origin. The thread has minimal engagement and does not list specific graduate programs, accreditation details, or state/clinical considerations. For leadership, the clear positives are WGU's transfer-credit flexibility and the implication that graduates with adequate GPA remain competitive for advanced programs. The lack of concrete university acceptance examples and low discussion volume indicate an opportunity to provide curated guidance and clear alumni outcomes to strengthen perceived transferability and reputation."
+}
+
+===== 1k84tpk.json =====
+{
+  "post": {
+    "post_id": "1k84tpk",
+    "title": "RN-BSN questions",
+    "permalink": "https://reddit.com/r/WGU/comments/1k84tpk/rnbsn_questions/",
+    "created_iso": "",
+    "subreddit": "WGU",
+    "num_comments": 0,
+    "selftext": "Anyone here pursing/completed their RN-BSN? Would you recommend it to others? I’m specifically curious about clinical hours like where and how many were required?",
+    "selftext_truncated_for_llm": true
+  },
+  "reasons_to_choose": [],
+  "comments": [
+    {
+      "summary": "No responses on the thread — prospective-student question went unanswered.",
+      "evidence": [
+        {
+          "text": "Anyone here pursing/completed their RN-BSN? Would you recommend it to others? I’m specifically curious about clinical hours like where and how many were required?",
+          "comment_id": "post"
+        }
+      ]
+    },
+    {
+      "summary": "Primary information need: specifics about clinical hours (where they occur and how many hours are required).",
+      "evidence": [
+        {
+          "text": "I’m specifically curious about clinical hours like where and how many were required?",
+          "comment_id": "post"
+        }
+      ]
+    },
+    {
+      "summary": "Reputational risk / missed engagement: unanswered threads from prospects can create perception of low alumni/student presence or lack of accessible program details.",
+      "evidence": [
+        {
+          "text": "Anyone here pursing/completed their RN-BSN? Would you recommend it to others?",
+          "comment_id": "post"
+        }
+      ]
+    }
+  ],
+  "verbatim_highlights": [
+    {
+      "text": "Anyone here pursing/completed their RN-BSN? Would you recommend it to others?",
+      "comment_id": "post"
+    },
+    {
+      "text": "I’m specifically curious about clinical hours like where and how many were required?",
+      "comment_id": "post"
+    }
+  ],
+  "conversation_summary": "A Reddit user asked whether others are pursuing or have completed the RN-BSN and specifically asked whether they would recommend it and how clinical hours are handled (where and how many). The post received zero comments, so the question was left unanswered on the subreddit. For WGU leadership this highlights a missed opportunity for alumni/current students to influence prospective applicants and address practical logistics. The unanswered query suggests prospects may lack clear, accessible information about RN-BSN clinical requirements. Recommended actions include mobilizing alumni/current students to engage on the subreddit, creating or pinning an RN-BSN clinical-hours FAQ, and monitoring for similar unanswered posts to improve perceived responsiveness and reduce uncertainty for applicants."
+}
+
+===== 1ka8rhv.json =====
+{
+  "post": {
+    "post_id": "1ka8rhv",
+    "title": "RN to BSN, Clinical, Oa's?",
+    "permalink": "https://reddit.com/r/WGU/comments/1ka8rhv/rn_to_bsn_clinical_oas/",
+    "created_iso": "",
+    "subreddit": "",
+    "num_comments": 0,
+    "selftext": "I am trying to decide on a rn to bsn program. I am curious to know is the clinical placement still taking over a year and also which CORE classes have OA's. I have all the pre reqs done.",
+    "selftext_truncated_for_llm": true
+  },
+  "reasons_to_choose": [],
+  "comments": [
+    {
+      "summary": "Prospective RN-to-BSN applicant has completed prerequisites and is actively evaluating program logistics (clinical placement timeline and which CORE courses use Objective Assessments).",
+      "evidence": [
+        {
+          "text": "I am trying to decide on a rn to bsn program. I am curious to know is the clinical placement still taking over a year and also which CORE classes have OA's. I have all the pre reqs done.",
+          "comment_id": "post"
+        }
+      ]
+    },
+    {
+      "summary": "No community responses in this thread (0 comments), indicating limited peer-sourced information available to the poster here.",
+      "evidence": [
+        {
+          "text": "thread has 0 comments",
+          "comment_id": "post"
+        }
+      ]
+    },
+    {
+      "summary": "Key decision drivers for this poster are time-to-clinical placement and transparency about which core courses require OAs.",
+      "evidence": [
+        {
+          "text": "curious to know is the clinical placement still taking over a year and also which CORE classes have OA's",
+          "comment_id": "post"
+        }
+      ]
+    }
+  ],
+  "verbatim_highlights": [
+    {
+      "text": "I am trying to decide on a rn to bsn program.",
+      "comment_id": "post"
+    },
+    {
+      "text": "is the clinical placement still taking over a year",
+      "comment_id": "post"
+    },
+    {
+      "text": "which CORE classes have OA's",
+      "comment_id": "post"
+    },
+    {
+      "text": "I have all the pre reqs done.",
+      "comment_id": "post"
+    }
+  ],
+  "conversation_summary": "A prospective student, having completed prerequisites, posted asking two specific operational questions: whether clinical placement for the RN-to-BSN still takes over a year and which CORE courses require Objective Assessments (OAs). The post received no comments, so there is no peer-sourced answer or clarification in this thread. The absence of replies signals an information gap for prospective students seeking quick community guidance. For leadership, the thread highlights demand for clear, accessible information about clinical placement timelines and the OA requirement map. Improving published timelines and an explicit OA-by-course list (or searchable FAQ) would address the poster's primary decision drivers and reduce reliance on community forums. Monitoring for similar unanswered posts could identify recurring transparency issues affecting enrollment decisions."
+}
+
+===== 1kcrwjt.json =====
+{
+  "post": {
+    "post_id": "1kcrwjt",
+    "title": "WGU",
+    "permalink": "https://reddit.com/r/WGU/comments/1kcrwjt/wgu/",
+    "created_iso": "",
+    "subreddit": "",
+    "num_comments": 9,
+    "selftext": "Hi, I am RN. I will be starting my RN to BSN program at WGU. I am wondering if anyone has completed this within a year. I am currently not working as I am retired.",
+    "selftext_truncated_for_llm": true
+  },
+  "reasons_to_choose": [
+    {
+      "summary": "Program can be completed quickly — anecdote of finishing the RN→BSN within a year, even while working full time.",
+      "evidence": [
+        {
+          "text": "My wife completed it within a year.  She worked full time too",
+          "comment_id": "t1_mq53hbr"
+        }
+      ]
+    },
+    {
+      "summary": "WGU enforces academic integrity (removal of cheating offers and moderator warnings), which supports degree credibility.",
+      "evidence": [
+        {
+          "text": "Your post has been removed as it violates Rule #2 - \"No cheating / plagiarism / academic dishonesty\".",
+          "comment_id": "t1_mqiog2f"
+        },
+        {
+          "text": "Do not reach out to this person that is claiming to be able to do your papers for you. This is 100% behavior that would get you expelled.",
+          "comment_id": "t1_mqiob17"
+        }
+      ]
+    }
+  ],
+  "comments": [
+    {
+      "summary": "A solicitation/offering to complete coursework appeared and was removed; community members strongly warned against using such services.",
+      "evidence": [
+        {
+          "text": "Please let me know how I can reach you if needed thank you",
+          "comment_id": "t1_mq5qcy3"
+        },
+        {
+          "text": "[removed]",
+          "comment_id": "t1_mq64ex9"
+        },
+        {
+          "text": "If you buy papers off this clown, that is cheating. If you are caught cheating or even caught attempting to cheat you will be expelled.",
+          "comment_id": "t1_mqhx74l"
+        }
+      ]
+    },
+    {
+      "summary": "Moderation is active and cites program/community rules to protect degree value.",
+      "evidence": [
+        {
+          "text": "Your post has been removed as it violates Rule #2 - \"No cheating / plagiarism / academic dishonesty\".",
+          "comment_id": "t1_mqiofbr"
+        }
+      ]
+    },
+    {
+      "summary": "Original poster's context: an RN, retired, asking whether completion within one year is feasible — thread provides minimal tactical advice beyond anecdote.",
+      "evidence": [
+        {
+          "text": "Hi, I am RN. I will be starting my RN to BSN program at WGU. I am wondering if anyone has completed this within a year. I am currently not working as I am retired.",
+          "comment_id": "post"
+        }
+      ]
+    }
+  ],
+  "verbatim_highlights": [
+    {
+      "text": "My wife completed it within a year.  She worked full time too",
+      "comment_id": "t1_mq53hbr"
+    },
+    {
+      "text": "Your post has been removed as it violates Rule #2 - \"No cheating / plagiarism / academic dishonesty\".",
+      "comment_id": "t1_mqiog2f"
+    },
+    {
+      "text": "Do not reach out to this person that is claiming to be able to do your papers for you. This is 100% behavior that would get you expelled.",
+      "comment_id": "t1_mqiob17"
+    },
+    {
+      "text": "If you buy papers off this clown, that is cheating. If you are caught cheating or even caught attempting to cheat you will be expelled.",
+      "comment_id": "t1_mqhx74l"
+    }
+  ],
+  "conversation_summary": "The OP (an RN who is retired) asked whether the RN→BSN at WGU can be completed within a year. One commenter provided a direct anecdote that their wife finished within a year while working full time, implying accelerated completion is possible. Much of the remainder of the thread centers on a removed comment/offering to do coursework and strong community and moderator responses warning that buying papers or plagiarism will lead to expulsion and degree revocation. Moderation invoked Rule #2 (no cheating) and emphasized protecting the degree's value. The thread offers limited tactical guidance for pacing or strategy beyond the anecdote, but it highlights two decision drivers for leadership: perceived program speed/flexibility and active enforcement of academic integrity to protect reputation. Overall the tone is supportive of WGU's credibility while vigilant about dishonest shortcuts."
+}
+
+===== 1kqahiy.json =====
+{
+  "post": {
+    "post_id": "1kqahiy",
+    "title": "RN to BSN Life",
+    "permalink": "https://reddit.com/r/WGU/comments/1kqahiy/rn_to_bsn_life/",
+    "created_iso": null,
+    "subreddit": "WGU",
+    "num_comments": 0,
+    "selftext": "I am interested in the RN to BSN program at WGU. I live in California and I see they will require clinical hours of some sort. I am mainly after how many proctored exams there are out of the 11 CORE courses and how many papers their are in each course. Do any courses have both a paper and one proctored exam in order to pass? How long does each paper need to be? I am guessing its all APA writing like the ADN program? I would appreciate any feedback from those who have taken the RN to BSN program at WGU!",
+    "selftext_truncated_for_llm": true
+  },
+  "reasons_to_choose": [
+    {
+      "summary": "Prospective students see WGU as an available RN-to-BSN option for California-based nurses.",
+      "evidence": [
+        {
+          "text": "I am interested in the RN to BSN program at WGU. I live in California",
+          "comment_id": "post"
+        }
+      ]
+    },
+    {
+      "summary": "The program's structure (CORE courses, proctored exams, and required clinical hours) is a focal point for decision-making.",
+      "evidence": [
+        {
+          "text": "I see they will require clinical hours of some sort. I am mainly after how many proctored exams there are out of the 11 CORE c",
+          "comment_id": "post"
+        }
+      ]
+    }
+  ],
+  "comments": [
+    {
+      "summary": "The post is brief and partially truncated ('11 CORE c'), creating ambiguity about the exact question.",
+      "evidence": [
+        {
+          "text": "how many proctored exams there are out of the 11 CORE c",
+          "comment_id": "post"
+        }
+      ]
+    },
+    {
+      "summary": "No community responses in the thread — missed opportunity to address a prospective student's logistics questions (clinical hours, proctoring).",
+      "evidence": [
+        {
+          "text": "I am interested in the RN to BSN program at WGU. I live in California...",
+          "comment_id": "post"
+        }
+      ]
+    },
+    {
+      "summary": "Key decision drivers shown: state residency (California), clinical hour requirements, and count of proctored exams — these are actionable information gaps.",
+      "evidence": [
+        {
+          "text": "I live in California",
+          "comment_id": "post"
+        },
+        {
+          "text": "will require clinical hours",
+          "comment_id": "post"
+        }
+      ]
+    }
+  ],
+  "verbatim_highlights": [
+    {
+      "text": "I am interested in the RN to BSN program at WGU.",
+      "comment_id": "post"
+    },
+    {
+      "text": "I live in California",
+      "comment_id": "post"
+    },
+    {
+      "text": "how many proctored exams there are out of the 11 CORE c",
+      "comment_id": "post"
+    }
+  ],
+  "conversation_summary": "A California-based Reddit user posted brief interest in WGU's RN-to-BSN program and asked specifically about required clinical hours and how many proctored exams exist among the program's 11 CORE courses. The post is short and appears truncated, leaving the exact scope of the question ambiguous. There are no comments or community responses on the thread, indicating an unanswered prospect inquiry. The thread highlights that prospective students are focused on state-specific clinical placement logistics and exam/proctoring burden when evaluating WGU. Leadership could view this as an opportunity to provide clear, public-facing answers about clinical hour policies for California students and the number/format of proctored assessments to reduce friction for applicants."
+}
+
+===== 1kqyd7o.json =====
+{
+  "post": {
+    "post_id": "1kqyd7o",
+    "title": "BSN, RN crying for help",
+    "permalink": "https://reddit.com/r/WGU/comments/1kqyd7o/bsn_rn_crying_for_help/",
+    "created_iso": "",
+    "subreddit": "",
+    "num_comments": 1,
+    "selftext": "Im a nurse with a bachelors degree I have been working for almost a year now. I’ve come to the conclusion that I hate nursing, bedside it’s not for me. Tired of night shift and 12 hrs shifts. I just came across WGU and I’m really surprised about the wide range of degrees they offer. As a nurse with a bachelors degree which degree would be the most useful to get a better job? It fought to my attention the masters degree in public health…is this a smart move? I should I reconsider ? Also another question…is it possible to complete the degree in just 1 year? lol since it’s cheaper the faster that you complete it. Thank you so much!!",
+    "selftext_truncated_for_llm": true
+  },
+  "reasons_to_choose": [
+    {
+      "summary": "WGU enables accelerated completion of a master's (MHA) which appeals to nurses seeking faster career pivots.",
+      "evidence": [
+        {
+          "text": "I’m getting my MHA w/WGU. ... I’m trying to complete in 6 months.",
+          "comment_id": "t1_mu84kia"
+        }
+      ]
+    },
+    {
+      "summary": "WGU is positioned as a pathway into leadership/management roles that require a graduate degree.",
+      "evidence": [
+        {
+          "text": "I’m in leadership and it requires I get my masters.",
+          "comment_id": "t1_mu84kia"
+        }
+      ]
+    }
+  ],
+  "comments": [
+    {
+      "summary": "Thread originates from a nurse expressing burnout with bedside nursing, night shifts, and 12-hour schedules — indicating program interest may be driven by desire to leave bedside roles.",
+      "evidence": [
+        {
+          "text": "I hate nursing, bedside it’s not for me. Tired of night shift and 12 hrs shifts.",
+          "comment_id": "post"
+        }
+      ]
+    },
+    {
+      "summary": "Accelerated programs can be stressful and demanding; prospective students may need expectations set around workload and timelines.",
+      "evidence": [
+        {
+          "text": "It’s stressful but I’m on task to meet my go",
+          "comment_id": "t1_mu84kia"
+        }
+      ]
+    },
+    {
+      "summary": "Advice in thread is brief and experiential rather than detailed—limited sample size (one commenter) so signals are anecdotal.",
+      "evidence": [
+        {
+          "text": "I’m getting my MHA w/WGU. I think it depends on what interests you.",
+          "comment_id": "t1_mu84kia"
+        }
+      ]
+    }
+  ],
+  "verbatim_highlights": [
+    {
+      "text": "I’m getting my MHA w/WGU.",
+      "comment_id": "t1_mu84kia"
+    },
+    {
+      "text": "I’m trying to complete in 6 months.",
+      "comment_id": "t1_mu84kia"
+    },
+    {
+      "text": "I hate nursing, bedside it’s not for me. Tired of night shift and 12 hrs shifts.",
+      "comment_id": "post"
+    },
+    {
+      "text": "It’s stressful but I’m on task to meet my go",
+      "comment_id": "t1_mu84kia"
+    }
+  ],
+  "conversation_summary": "The OP is an RN with a bachelor's who is burned out from bedside nursing and long night shifts and is asking for help. One commenter reports choosing WGU for an MHA to move into leadership, noting they aim to finish in six months. The commenter frames WGU as a viable pathway to leadership but cautions that accelerated completion is stressful. Overall the thread signals interest in WGU for career transition and speed, but also highlights workload and stress as concerns. The sample is small and anecdotal, so while the sentiment is positive about career alignment, leadership should treat it as directional feedback rather than representative data. Consider highlighting program pacing options, clear workload expectations, and supports for students transitioning from bedside roles."
+}
+
+===== 1krb7nx.json =====
+{
+  "post": {
+    "post_id": "1krb7nx",
+    "title": "RN to Bsn",
+    "permalink": "https://reddit.com/r/WGU/comments/1krb7nx/rn_to_bsn/",
+    "created_iso": "",
+    "subreddit": "WGU",
+    "num_comments": 0,
+    "selftext": "Hey guys, I’ve been taking it slow with my BSN and would like to hear how long it took you to wrap it up.",
+    "selftext_truncated_for_llm": true
+  },
+  "reasons_to_choose": [],
+  "comments": [],
+  "verbatim_highlights": [],
+  "conversation_summary": "The OP asked how long it took others to finish their RN-to-BSN, indicating interest in completion timelines for the program. There were no comments or replies on the thread. The lack of responses provides no direct peer evidence about time-to-completion, student experience, or comparative advantages. For leadership, the thread signals missed opportunity for community engagement and for sharing concrete completion data. Consider proactively posting aggregated time-to-degree statistics, typical pacing examples, and alumni timelines to seed these conversations. Also consider monitoring posting times and encouraging moderators or staff to respond to similar queries quickly to shape reputation and decision drivers."
+}
+
+===== 1l633b3.json =====
+{
+  "post": {
+    "post_id": "1l633b3",
+    "title": "Admission for foreign degree",
+    "permalink": "https://reddit.com/r/WGU/comments/1l633b3/admission_for_foreign_degree/",
+    "created_iso": "",
+    "subreddit": "",
+    "num_comments": 0,
+    "selftext": "Im a US licensed RN in cali, but i got my BSN degree in the Philippines. I want to take MSN informatics in WGU. Has anyone tried and got admitted on the program with this kind of situation?",
+    "selftext_truncated_for_llm": true
+  },
+  "reasons_to_choose": [],
+  "comments": [
+    {
+      "summary": "Prospective student is a US-licensed RN (California) with a foreign BSN seeking admission to WGU's MSN Informatics; they are asking whether applicants with international nursing degrees get admitted.",
+      "evidence": [
+        {
+          "text": "Im a US licensed RN in cali, but i got my BSN degree in the Philippines. I want to take MSN informatics in WGU. Has anyone tried and got admitted on the program with this kind of situation?",
+          "comment_id": "post"
+        }
+      ]
+    },
+    {
+      "summary": "The thread received no responses, indicating either low subreddit engagement on this topic or that the question points to a knowledge gap where WGU could clarify admissions guidance.",
+      "evidence": [
+        {
+          "text": "no comments in the thread (num_comments = 0)",
+          "comment_id": "post"
+        }
+      ]
+    },
+    {
+      "summary": "Key unstated decision drivers for the poster likely include foreign degree evaluation, credential equivalency, and whether a US RN license suffices for MSN admission.",
+      "evidence": [
+        {
+          "text": "Im a US licensed RN in cali, but i got my BSN degree in the Philippines.",
+          "comment_id": "post"
+        }
+      ]
+    }
+  ],
+  "verbatim_highlights": [
+    {
+      "text": "Im a US licensed RN in cali, but i got my BSN degree in the Philippines.",
+      "comment_id": "post"
+    },
+    {
+      "text": "I want to take MSN informatics in WGU.",
+      "comment_id": "post"
+    },
+    {
+      "text": "Has anyone tried and got admitted on the program with this kind of situation?",
+      "comment_id": "post"
+    }
+  ],
+  "conversation_summary": "A single prospective student posted asking whether WGU admits applicants to the MSN Informatics program who hold a BSN from the Philippines while holding a U.S. RN license in California. There were no replies in the thread, so no community confirmation or guidance was provided. The post highlights likely decision drivers: foreign degree evaluation, credential equivalency, and whether a U.S. RN license is sufficient for program entry. The lack of responses suggests either low engagement on this subreddit or an unmet need for clear public-facing admissions information on international degrees. For leadership, this is a usability signal to clarify admissions requirements for internationally-educated nurses, publish step-by-step credential evaluation instructions, and consider proactive outreach or FAQs to address this recurring concern."
+}
+
+===== 1l660fm.json =====
+{
+  "post": {
+    "post_id": "1l660fm",
+    "title": "RN BSN to MSN Education",
+    "permalink": "https://reddit.com/r/WGU/comments/1l660fm/rn_bsn_to_msn_education/",
+    "created_iso": "",
+    "subreddit": "",
+    "num_comments": 0,
+    "selftext": "I am enrolling in the Bachelor of Science and Post-Baccalaureate Certificate, Nursing (RN to MSN track) - I have a few courses to finish my BSN and then start my MSN in nursing education. Looking for any input regarding coursework, time spent each week, relationship with your mentor, communication, and how to maximize getting as much accomplished in the least amount of time. I have 20 years of bedside nursing experience and currently teach part-time now as a clinical instructor, so I feel I am starting with a strong base out of the gate. Again, any and all advice or suggestions are appreciated. Thanks in advance! :)",
+    "selftext_truncated_for_llm": true
+  },
+  "reasons_to_choose": [
+    {
+      "summary": "WGU offers an RN-to-MSN pathway that lets an RN finish remaining BSN requirements and continue directly into an MSN in nursing education.",
+      "evidence": [
+        {
+          "text": "I am enrolling in the Bachelor of Science and Post-Baccalaureate Certificate, Nursing (RN to MSN track) - I have a few courses to finish my BSN and then start my MSN in nursing education.",
+          "comment_id": "post"
+        }
+      ]
+    }
+  ],
+  "comments": [
+    {
+      "summary": "Original post appears to be seeking advice or information but the question is cut off ('Looking for'), limiting actionable insights.",
+      "evidence": [
+        {
+          "text": "Looking for ",
+          "comment_id": "post"
+        }
+      ]
+    },
+    {
+      "summary": "Thread shows zero community engagement (no replies), so it provides little signal about reputation or concerns.",
+      "evidence": [
+        {
+          "text": "num_comments: 0",
+          "comment_id": "post"
+        }
+      ]
+    },
+    {
+      "summary": "Poster is actively enrolling, which is a positive indicator of prospective student uptake even if reasons or expectations are not detailed.",
+      "evidence": [
+        {
+          "text": "I am enrolling in the Bachelor of Science and Post-Baccalaureate Certificate, Nursing (RN to MSN track)",
+          "comment_id": "post"
+        }
+      ]
+    }
+  ],
+  "verbatim_highlights": [
+    {
+      "text": "I am enrolling in the Bachelor of Science and Post-Baccalaureate Certificate, Nursing (RN to MSN track) - I have a few courses to finish my BSN and then start my MSN in nursing education.",
+      "comment_id": "post"
+    },
+    {
+      "text": "Looking for",
+      "comment_id": "post"
+    }
+  ],
+  "conversation_summary": "The OP states they are enrolling in WGU's RN-to-MSN track and plans to finish a few BSN courses before starting an MSN in nursing education. The post appears to be incomplete (ends with 'Looking for'), suggesting the poster intended to ask for advice or information but did not finish. There are zero comments on the thread, so no community feedback, praise, or concerns are recorded. From this thread alone, the only clear signal is that WGU offers a direct RN-to-MSN pathway which the OP chose. Because of the missing question text and lack of replies, this thread offers limited actionable insight into reputation or decision drivers. Recommendation: monitor for follow-ups, encourage alumni/current-student replies, and consider posting clearer RN-to-MSN FAQs to capture and direct similar prospective-student queries."
+}
+
+===== 1l6tfad.json =====
+{
+  "post": {
+    "post_id": "1l6tfad",
+    "title": "Nursing Prelicensure program",
+    "permalink": "https://reddit.com/r/WGU/comments/1l6tfad/nursing_prelicensure_program/",
+    "created_iso": "",
+    "subreddit": "",
+    "num_comments": 2,
+    "selftext": "This might be a silly question, but after you complete the nursing Prelicensure program are you able to take the NCLEX and become an RN? Or do you have to complete the entire BSN program in order to become a registered nurse?",
+    "selftext_truncated_for_llm": true
+  },
+  "reasons_to_choose": [
+    {
+      "summary": "The Prelicensure Program is explicitly identified as the BSN, meaning completion positions students to sit for the NCLEX and become RNs.",
+      "evidence": [
+        {
+          "text": "The Prelicensure Program IS a BSN.",
+          "comment_id": "t1_mwrpssh"
+        },
+        {
+          "text": "after you complete the nursing Prelicensure program are you able to take the NCLEX and become an RN?",
+          "comment_id": "post"
+        }
+      ]
+    },
+    {
+      "summary": "Program structure is staged (pre-nursing then prelicensure), which clarifies the student pathway and may reduce onboarding confusion.",
+      "evidence": [
+        {
+          "text": "When you start you will be in the pre-nursing portion of the program. Once you complete all the p",
+          "comment_id": "t1_mwsb46p"
+        }
+      ]
+    }
+  ],
+  "comments": [
+    {
+      "summary": "Thread shows common applicant confusion between the 'pre-nursing' coursework and the full Prelicensure BSN program.",
+      "evidence": [
+        {
+          "text": "I think you are confusing the pre-nursing portion of the program with the entire Prelicensure program",
+          "comment_id": "t1_mwsb46p"
+        },
+        {
+          "text": "after you complete the nursing Prelicensure program are you able to take the NCLEX and become an RN?",
+          "comment_id": "post"
+        }
+      ]
+    },
+    {
+      "summary": "Very low engagement: only two short comments, no discussion about outcomes, timelines, costs, or reputation — limited data for broader inference.",
+      "evidence": [
+        {
+          "text": "The Prelicensure Program IS a BSN.",
+          "comment_id": "t1_mwrpssh"
+        },
+        {
+          "text": "When you start you will be in the pre-nursing portion of the program. Once you complete all the p",
+          "comment_id": "t1_mwsb46p"
+        }
+      ]
+    }
+  ],
+  "verbatim_highlights": [
+    {
+      "text": "The Prelicensure Program IS a BSN.",
+      "comment_id": "t1_mwrpssh"
+    },
+    {
+      "text": "after you complete the nursing Prelicensure program are you able to take the NCLEX and become an RN?",
+      "comment_id": "post"
+    },
+    {
+      "text": "When you start you will be in the pre-nursing portion of the program.",
+      "comment_id": "t1_mwsb46p"
+    }
+  ],
+  "conversation_summary": "The OP asked whether completing WGU's nursing Prelicensure program allows you to take the NCLEX and become an RN. A respondent clearly states that the Prelicensure Program is the BSN, implying eligibility for NCLEX after program completion. Another commenter clarifies that new students begin in a 'pre-nursing' portion before progressing to the Prelicensure phase, indicating a staged program structure. The thread is very short (two comments) and lacks discussion of outcomes, timelines, or costs. Main takeaways for leadership: messaging about the distinction between pre-nursing coursework and the Prelicensure BSN should be clarified to reduce applicant confusion, and the program's NCLEX-eligibility after completion is being communicated effectively in at least some community responses."
+}
+
+===== 1l815ub.json =====
+{
+  "post": {
+    "post_id": "1l815ub",
+    "title": "RN Considering WGU MBA — General vs Healthcare Management? Any Nurses Here Done It?",
+    "permalink": "https://reddit.com/r/WGU/comments/1l815ub/rn_considering_wgu_mba_general_vs_healthcare/",
+    "created_iso": "",
+    "subreddit": "r/WGU",
+    "num_comments": 2,
+    "selftext": "Hey everyone, I’m a Canadian RN with a BSN and about 4 years of experience split between psych and corrections nursing. I’m currently working as a travel nurse in the U.S. and considering going back to Canada in a couple years. While I enjoy my work for now, I’ve been thinking seriously about the long game and how to open up more career options down the line — especially something that could eventually get me into the $150K+ range. I’ve narrowed it down to either WGU’s General MBA or the MBA in Healthcare Management, but I’m stuck on which one makes more sense for someone with a nursing background. Right now I’m leaning towards the Healthcare MBA. Again, I don’t hate nursing — I actually enjoy it — but I want to have a degree that gives me flexibility if I ever want to step away from bedside work or get into leadership, consulting, informatics, or health tech strategy roles. Questions for any nurses here who’ve done either MBA at WGU: - Which one did you choose and why? - What kind of roles did you end up in (if you pivoted)? - Was it respected or helpful in getting you interviews? - Did it actually change your earning potential? If anyone has experience specifically in mental health, public health, consulting, or even just moving into admin from bedside after the degree, I’d love to hear how it played out. Thanks in advance — and congrats to anyone who’s already finished their degree! 👏",
+    "selftext_truncated_for_llm": true
+  },
+  "reasons_to_choose": [
+    {
+      "summary": "WGU offers multiple MBA tracks (General MBA and MBA in Healthcare Management), giving applicants program choice aligned to career goals.",
+      "evidence": [
+        {
+          "text": "RN Considering WGU MBA — General vs Healthcare Management? Any Nurses Here Done It?",
+          "comment_id": "post"
+        }
+      ]
+    },
+    {
+      "summary": "A General MBA is seen as a deliberate option for nurses who want flexibility to move out of healthcare into other sectors.",
+      "evidence": [
+        {
+          "text": "I looked into that, but I wanted the option to step out of healthcare sector if I ever felt the need to",
+          "comment_id": "t1_mx3ffds"
+        }
+      ]
+    }
+  ],
+  "comments": [
+    {
+      "summary": "Thread is low-engagement and short — only one substantive reply and one truncated comment, limiting representative insight.",
+      "evidence": [
+        {
+          "text": "I don't think either is the ",
+          "comment_id": "t1_mx3b0ee"
+        },
+        {
+          "text": "I looked into that, but I wanted the option to step out of healthcare sector if I ever felt the need to",
+          "comment_id": "t1_mx3ffds"
+        }
+      ]
+    },
+    {
+      "summary": "OP context: Canadian RN, BSN, ~4 years in psych and corrections, currently a travel nurse — international/portable student considerations may matter.",
+      "evidence": [
+        {
+          "text": "Hey everyone, I’m a Canadian RN with a BSN and about 4 years of experience split between psych and corrections nursing. I’m currently working as a travel nurse in the U.S.",
+          "comment_id": "post"
+        }
+      ]
+    },
+    {
+      "summary": "Unclear or incomplete guidance in the thread — one top-level commenter appears to start a critique but leaves the point unfinished.",
+      "evidence": [
+        {
+          "text": "I don't think either is the ",
+          "comment_id": "t1_mx3b0ee"
+        }
+      ]
+    }
+  ],
+  "verbatim_highlights": [
+    {
+      "text": "RN Considering WGU MBA — General vs Healthcare Management? Any Nurses Here Done It?",
+      "comment_id": "post"
+    },
+    {
+      "text": "I wanted the option to step out of healthcare sector if I ever felt the need to",
+      "comment_id": "t1_mx3ffds"
+    }
+  ],
+  "conversation_summary": "A Canadian RN with a BSN and about four years of experience posted asking whether to pursue WGU's General MBA or the MBA in Healthcare Management. The thread contains only two comments: one unfinished/top-level reply and one follow-up stating a preference for flexibility to leave healthcare, which motivates considering the General MBA. There is little detailed discussion of program outcomes, course differences, or employer perceptions. Because engagement is minimal and a key comment is incomplete, the sample provides limited evidence but signals that prospective students value cross-sector mobility. Leadership should note interest in program choice and flexibility, and consider clearer messaging on career pathways, transferability for international RNs, and differentiated outcomes between MBA tracks. Low participation suggests opportunity for WGU to proactively provide targeted guidance to nursing audiences. "
+}
+
+===== 1l9mifs.json =====
+{
+  "post": {
+    "post_id": "1l9mifs",
+    "title": "RN Considering WGU MBA — General vs Healthcare Management?",
+    "permalink": "https://reddit.com/r/WGU/comments/1l9mifs/rn_considering_wgu_mba_general_vs_healthcare/",
+    "created_iso": "",
+    "subreddit": "WGU",
+    "num_comments": 4,
+    "selftext": "Hey everyone, reposting this since I didn’t really get many responses the first time: I’m a Canadian RN with a BSN and about 4 years of experience split between psych and corrections nursing. I’m currently working as a travel nurse in the U.S. and considering going back to Canada in a couple years. While I enjoy my work for now, I’ve been thinking seriously about the long game and how to open up more career options down the line — especially something that could eventually get me into the $150K+ range. I’ve narrowed it down to either WGU’s General MBA or the MBA in Healthcare Management, but I’m stuck on which one makes more sense for someone with a nursing background. Right now I’m leaning towards the Healthcare MBA. Again, I don’t hate nursing — I actually enjoy it — but I want to have a degree that gives me flexibility if I ever want to step away from bedside work or get into leadership, consulting, informatics, or health tech strategy roles. This is also the reason I don’t wanna get an MSN. Questions for any nurses here who’ve done either MBA at WGU: - Which one did you choose and why? - What kind of roles did you end up in (if you pivoted)? - Was it respected or helpful in getting you interviews? - Did it actually change your earning potential? If anyone has experience specifically in mental health, public health, consulting, or even just moving into admin from bedside after the degree, I’d love to hear how it played out. Thanks in advance — and congrats to anyone who’s already finished their degree! 👏",
+    "selftext_truncated_for_llm": true
+  },
+  "reasons_to_choose": [
+    {
+      "summary": "WGU's Healthcare MBA is highly relevant to nurses wanting leadership roles because it closely aligns with healthcare experience and leadership narratives.",
+      "evidence": [
+        {
+          "text": "Unless you want to get out of the healthcare industry eventually, I would go with the healthcare MBA. It’s always good experience, and narrative, for leadership to have individual contributor experien",
+          "comment_id": "t1_mxdq0me"
+        }
+      ]
+    },
+    {
+      "summary": "The Healthcare MBA differs only slightly from the general MBA (only two unique classes), making it an efficient choice for those in healthcare.",
+      "evidence": [
+        {
+          "text": "There were only 2 classes that differed, Service Line Development and Accreditation Audit.",
+          "comment_id": "t1_mxe1av4"
+        }
+      ]
+    },
+    {
+      "summary": "Graduates of WGU's Healthcare MBA report concrete career progression into administration.",
+      "evidence": [
+        {
+          "text": "After graduating, I moved into Administration",
+          "comment_id": "t1_mxe1av4"
+        }
+      ]
+    },
+    {
+      "summary": "Choose the general MBA if you plan to leave healthcare long-term to preserve broader options.",
+      "evidence": [
+        {
+          "text": "Unless you want to get out of the healthcare industry eventually, I would go with the healthcare MBA.",
+          "comment_id": "t1_mxdq0me"
+        }
+      ]
+    }
+  ],
+  "comments": [
+    {
+      "summary": "Original poster context: Canadian RN with a BSN and ~4 years experience in psych and corrections nursing considering degree choice.",
+      "evidence": [
+        {
+          "text": "I’m a Canadian RN with a BSN and about 4 years of experience split between psych and corrections nursing.",
+          "comment_id": "post"
+        }
+      ]
+    },
+    {
+      "summary": "Some participants discussed future career flexibility—OP not closed to leaving healthcare in ~10 years which affects program choice.",
+      "evidence": [
+        {
+          "text": "I wouldn’t be fully closed off to leaving the healthcare industry later on maybe 10 years or so from now.",
+          "comment_id": "t1_mxdsjqr"
+        }
+      ]
+    },
+    {
+      "summary": "Thread is small and anecdotal—only a few commenters provided opinions, limiting breadth of perspectives.",
+      "evidence": [
+        {
+          "text": "Reposting this since I didn’t really get many responses the first time",
+          "comment_id": "post"
+        }
+      ]
+    },
+    {
+      "summary": "A side question was raised about MBA vs MSN (administration/leadership), indicating interest in clinical-track leadership alternatives.",
+      "evidence": [
+        {
+          "text": "Does anyone have any info about an mba vs msn admin/leadership? Or maybe both? Any thoughts?",
+          "comment_id": "t1_n1tgo1t"
+        }
+      ]
+    }
+  ],
+  "verbatim_highlights": [
+    {
+      "text": "There were only 2 classes that differed, Service Line Development and Accreditation Audit.",
+      "comment_id": "t1_mxe1av4"
+    },
+    {
+      "text": "After graduating, I moved into Administration",
+      "comment_id": "t1_mxe1av4"
+    },
+    {
+      "text": "Unless you want to get out of the healthcare industry eventually, I would go with the healthcare MBA.",
+      "comment_id": "t1_mxdq0me"
+    }
+  ],
+  "conversation_summary": "A Canadian RN with a BSN and about four years' experience asked whether to pursue WGU's general MBA or the Healthcare Management MBA. Respondents (a small, anecdotal sample) largely recommended the Healthcare MBA unless the OP intends to exit healthcare long-term, noting it aligns with clinical experience and leadership narratives. One commenter emphasized the healthcare track only changes two classes (Service Line Development and Accreditation Audit), suggesting minimal additional coursework for targeted content. A graduate reported moving into administration after completing the program, indicating positive career impact. The OP also signaled openness to leaving healthcare in the future, and another participant raised the related question of MBA versus MSN for administration. Overall the thread frames WGU's Healthcare MBA as efficient, relevant, and helpful for administrative transitions, while the general MBA remains an option for broader career flexibility."
+}
+
+===== 1lawoah.json =====
+{
+  "post": {
+    "post_id": "1lawoah",
+    "title": "RN to BSN 2 classes in 12 days!",
+    "permalink": "https://reddit.com/r/WGU_Accelerators/comments/1lawoah/rn_to_bsn_2_classes_in_12_days/",
+    "created_iso": "",
+    "subreddit": "WGU_Accelerators",
+    "num_comments": 0,
+    "selftext": "The first class was easy, one paper that ended up being 5 pages, and I finished the class in a day. The second was real tough though- statistics. I spent 3-4 hours a day studying (about 1 hour was at work during free time) and was able to score exemplary overall! I’m NOT a math person so I’m super proud of this. For anyone taking Statistics in Healthcare really pay attention to the preassessment- some questions in the test were word for word!!",
+    "selftext_truncated_for_llm": true
+  },
+  "reasons_to_choose": [
+    {
+      "summary": "Ability to progress very quickly (complete a course in a day) due to competency-based/accelerated format.",
+      "evidence": [
+        {
+          "text": "The first class was easy, one paper that ended up being 5 pages, and I finished the class in a day.",
+          "comment_id": "post"
+        }
+      ]
+    },
+    {
+      "summary": "Some courses are straightforward (paper-based) and can be completed with focused effort.",
+      "evidence": [
+        {
+          "text": "The first class was easy, one paper that ended up being 5 pages",
+          "comment_id": "post"
+        }
+      ]
+    }
+  ],
+  "comments": [
+    {
+      "summary": "Course difficulty varies — statistics was significantly harder and required sustained daily study time.",
+      "evidence": [
+        {
+          "text": "The second was real tough though- statistics. I spent 3-4 hours a day studying",
+          "comment_id": "post"
+        }
+      ]
+    },
+    {
+      "summary": "Student reported time investment breakdown but post is truncated, so context on where study took place and completion details is missing.",
+      "evidence": [
+        {
+          "text": "I spent 3-4 hours a day studying (about 1 hour was at ",
+          "comment_id": "post"
+        }
+      ]
+    },
+    {
+      "summary": "Low engagement on this thread (no comments) — single anecdote, limited generalizability.",
+      "evidence": [
+        {
+          "text": "num_comments: 0",
+          "comment_id": "post"
+        }
+      ]
+    }
+  ],
+  "verbatim_highlights": [
+    {
+      "text": "I finished the class in a day.",
+      "comment_id": "post"
+    },
+    {
+      "text": "The second was real tough though- statistics.",
+      "comment_id": "post"
+    },
+    {
+      "text": "I spent 3-4 hours a day studying",
+      "comment_id": "post"
+    }
+  ],
+  "conversation_summary": "This single-post thread describes a student's RN-to-BSN experience completing two WGU classes in 12 days: one paper-based course the student finished in a day and a second statistics course that required 3–4 hours of study per day. The thread contains no comments, so it's an isolated anecdote rather than community consensus. Key takeaways for leadership: WGU's model enables very fast progress when coursework aligns with student strengths, but course difficulty can vary substantially (quantitative courses like statistics demand more time). The post is truncated and lacks broader context about support, assessment attempts, or outcomes. Monitor for patterns around hard-to-pass courses and consider targeted resources for statistics/quantitative classes to improve student experience and completion consistency."
+}
+
+===== 1lew6kb.json =====
+{
+  "post": {
+    "post_id": "1lew6kb",
+    "title": "Are you taking RN-BSN to MSN programme course.",
+    "permalink": "https://reddit.com/r/WGU_Accelerators/comments/1lew6kb/are_you_taking_rnbsn_to_msn_programme_course/",
+    "created_iso": "",
+    "subreddit": "WGU_Accelerators",
+    "num_comments": 0,
+    "selftext": "Hey there Nurses,are you taking Flexpath RN-BSN to MSN and may be you're busy with work and still you want to complete it as early as possible, may be even 6 weeks. Yes, it's possible to accelerate the process. You may Hmu for more guidance and advice,also I've created a sub where you can join and interact with experienced instructors from my team. The sub is r/Capella_Flexpath_Help join it for more as I'll be sharing alot over there",
+    "selftext_truncated_for_llm": true
+  },
+  "reasons_to_choose": [
+    {
+      "summary": "FlexPath RN‑BSN to MSN format advertised as enabling rapid acceleration and very short completion times (example: as little as 6 weeks).",
+      "evidence": [
+        {
+          "text": "still you want to complete it as early as possible, may be even 6 weeks.",
+          "comment_id": "post"
+        }
+      ]
+    },
+    {
+      "summary": "Program positioned as flexible and suitable for working nurses who need to balance coursework with employment.",
+      "evidence": [
+        {
+          "text": "are you taking Flexpath RN-BSN to MSN and may be you're busy with work",
+          "comment_id": "post"
+        }
+      ]
+    }
+  ],
+  "comments": [
+    {
+      "summary": "Thread contains no community discussion or verification — zero comments, so claims are uncorroborated here.",
+      "evidence": [
+        {
+          "text": "num_comments: 0",
+          "comment_id": "post"
+        }
+      ]
+    },
+    {
+      "summary": "Post is brief and promotional in tone and lacks detail on requirements, evidence, timelines, cost, or accreditation specifics.",
+      "evidence": [
+        {
+          "text": "Yes, it's possible to accelerate th",
+          "comment_id": "post"
+        }
+      ]
+    },
+    {
+      "summary": "Opportunity risk: short claimed timelines (e.g., 6 weeks) could create unrealistic expectations if not qualified with typical time-to-complete or prerequisites.",
+      "evidence": [
+        {
+          "text": "may be even 6 weeks.",
+          "comment_id": "post"
+        }
+      ]
+    }
+  ],
+  "verbatim_highlights": [
+    {
+      "text": "Flexpath RN-BSN to MSN",
+      "comment_id": "post"
+    },
+    {
+      "text": "may be even 6 weeks.",
+      "comment_id": "post"
+    }
+  ],
+  "conversation_summary": "This thread is a single, short post promoting the FlexPath RN‑BSN to MSN pathway and claiming it can be accelerated — possibly as quickly as six weeks — for busy working nurses. There are no comments or community responses to confirm, challenge, or add detail, leaving the claim uncorroborated. The post is promotional and lacks concrete information about prerequisites, typical timelines, costs, or outcomes. For leadership, this represents low-risk visibility but a communications opportunity: clarify realistic timelines, prerequisites, and support resources to avoid misunderstandings. Monitor for follow-ups and consider engaging with a brief authoritative reply outlining typical completion ranges and linking to official program details. This can help manage expectations and protect reputation while converting interest into informed inquiries."
+}
+
+===== 1lhyro2.json =====
+{
+  "post": {
+    "post_id": "1lhyro2",
+    "title": "WGU RN-BSN to MSN programme courses in one billing cycle in 5-6 weeks",
+    "permalink": "https://reddit.com/r/WGU_Accelerators/comments/1lhyro2/wgu_rnbsn_to_msn_programme_courses_in_one_billing/",
+    "created_iso": "",
+    "subreddit": "WGU_Accelerators",
+    "num_comments": 1,
+    "selftext": "Hey there nurses,are you taking RN-BSN or RN-MSN programme courses in any university be it Capella,Walden,WGU,Post,Tasmania etc this is your post. I'm an experienced tutor and writer and I handle classes for you,take only 5-6 weeks to complete the whole programme. I deliver distinguished grades as I do quality work with no plagiarism no use of AI. I've helped a number of nurses complete their courses and they really enjoy my services. My charges are pocket friendly as I consider your budget so much. Don't stress yourself with classes and work. I'm here for you.",
+    "selftext_truncated_for_llm": true
+  },
+  "reasons_to_choose": [
+    {
+      "summary": "WGU offers an RN-BSN to MSN pathway that prospective students search for or discuss.",
+      "evidence": [
+        {
+          "text": "WGU",
+          "comment_id": "post"
+        },
+        {
+          "text": "WGU RN-BSN to MSN programme courses in one billing cycle in 5-6 weeks",
+          "comment_id": "post"
+        }
+      ]
+    },
+    {
+      "summary": "The program structure/billing cycle is perceived as short/accelerated (5–6 weeks), which appeals to learners seeking faster progression.",
+      "evidence": [
+        {
+          "text": "in one billing cycle in 5-6 weeks",
+          "comment_id": "post"
+        }
+      ]
+    },
+    {
+      "summary": "There is an active accelerator community where students discuss completing WGU coursework and pathways.",
+      "evidence": [
+        {
+          "text": "This is for accelerators.",
+          "comment_id": "t1_n14c8am"
+        },
+        {
+          "text": "r/WGU_Accelerators",
+          "comment_id": "post"
+        }
+      ]
+    }
+  ],
+  "comments": [
+    {
+      "summary": "Post appears to be a solicitation to do coursework for students (academic dishonesty / paid writing/tutoring services), which community members condemn.",
+      "evidence": [
+        {
+          "text": "I'm an experienced tutor and writer and I handle clas",
+          "comment_id": "post"
+        },
+        {
+          "text": "Oh wow. I hope no nurse is paying for this. Nurses need their skills. I hope you're not a nurse doing this for others. Smh.",
+          "comment_id": "t1_n14c8am"
+        }
+      ]
+    },
+    {
+      "summary": "Community norm: accelerators subreddit is intended for support/acceleration, not cheating; poster was called out and thread has minimal engagement.",
+      "evidence": [
+        {
+          "text": "Glad there's no comments. This is for accelerators. Not cheaters",
+          "comment_id": "t1_n14c8am"
+        },
+        {
+          "text": "WGU_Accelerators",
+          "comment_id": "post"
+        }
+      ]
+    },
+    {
+      "summary": "Reputational risk: public posts offering to complete coursework for students can reflect poorly on the institution if associated with WGU.",
+      "evidence": [
+        {
+          "text": "WGU RN-BSN to MSN programme courses in one billing cycle in 5-6 weeks",
+          "comment_id": "post"
+        },
+        {
+          "text": "I hope no nurse is paying for this.",
+          "comment_id": "t1_n14c8am"
+        }
+      ]
+    }
+  ],
+  "verbatim_highlights": [
+    {
+      "text": "WGU RN-BSN to MSN programme courses in one billing cycle in 5-6 weeks",
+      "comment_id": "post"
+    },
+    {
+      "text": "I hope no nurse is paying for this.",
+      "comment_id": "t1_n14c8am"
+    }
+  ],
+  "conversation_summary": "A spammy post advertised handling RN-BSN to MSN coursework (naming WGU among other schools) and claimed completion within a single 5–6 week billing cycle. The lone comment condemned the post as likely cheating or a paid-writing service and emphasized that r/WGU_Accelerators is for legitimate acceleration, not academic dishonesty. There is clear community policing of integrity and low engagement on this thread. For leadership, the thread highlights two positives (demand/awareness of the RN-BSN→MSN pathway and interest in accelerated completion) and one clear risk: public offers to do coursework for students that could harm reputation. Recommended attention areas are monitoring external posts for abuse, clarifying integrity policies to prospective students, and engaging accelerator communities to reinforce legitimate support channels."
+}
+
+===== 1mfg98w.json =====
+{
+  "post": {
+    "post_id": "1mfg98w",
+    "title": "HESI RN Dosage Calculations 2025 Study Material - BSN",
+    "permalink": "https://reddit.com/r/wgueducation/comments/1mfg98w/hesi_rn_dosage_calculations_2025_study_material/",
+    "created_iso": "",
+    "subreddit": "wgueducation",
+    "num_comments": 0
+  },
+  "reasons_to_choose": [],
+  "comments": [
+    {
+      "summary": "Low or no engagement on a specific study-material request suggests either unmet demand or poor visibility of resources; opportunity for WGU to supply/market HESI dosage-calculation prep.",
+      "evidence": [
+        {
+          "text": "HESI RN Dosage Calculations 2025 Study Material - BSN",
+          "comment_id": "post"
+        }
+      ]
+    },
+    {
+      "summary": "Thread lacks body and replies, limiting insight into student needs or sentiment; cannot infer reasons students would choose WGU from this post alone.",
+      "evidence": [
+        {
+          "text": "[post has no selftext and zero comments]",
+          "comment_id": "post"
+        }
+      ]
+    },
+    {
+      "summary": "Presence of a targeted exam-prep query (HESI dosage calculations) signals topic-level interest among nursing students that WGU could address via targeted content, study guides, or outreach.",
+      "evidence": [
+        {
+          "text": "HESI RN Dosage Calculations 2025 Study Material - BSN",
+          "comment_id": "post"
+        }
+      ]
+    }
+  ],
+  "verbatim_highlights": [
+    {
+      "text": "HESI RN Dosage Calculations 2025 Study Material - BSN",
+      "comment_id": "post"
+    }
+  ],
+  "conversation_summary": "The thread is a single post titled ‘HESI RN Dosage Calculations 2025 Study Material - BSN’ with no body text and zero comments. Because there are no replies, there is no community discussion to assess sentiment, satisfaction, or reasons for choosing WGU. The topic itself—HESI dosage-calculation study material—indicates a clear student need or interest area. The lack of engagement could reflect low visibility, a missed opportunity to direct students to resources, or that the poster did not follow up. For leadership, this signals an opportunity to proactively publish and promote targeted study resources (dosage calculations/HESI prep) and engage on subreddit channels to increase brand presence. However, no affirmative evidence in this thread supports claims about WGU's reputation or decision drivers; further monitoring of related threads is recommended."
+}
+
+===== 1mgulbw.json =====
+{
+  "post": {
+    "post_id": "1mgulbw",
+    "title": "Nursing degree in Washington State question",
+    "permalink": "https://reddit.com/r/WGU/comments/1mgulbw/nursing_degree_in_washington_state_question/",
+    "created_iso": "",
+    "subreddit": "WGU",
+    "num_comments": 1,
+    "selftext": "It looks like you can’t do the RN pre licensure degree at WGU if you live in Washington state. But if you’re already an RN you can do the RN to BSN Nursing Bachelor’s Degree in Washington. Is this correct? Just looking for some clarity.",
+    "selftext_truncated_for_llm": true
+  },
+  "reasons_to_choose": [
+    {
+      "summary": "WGU's RN-to-BSN program is available to Washington residents who are already licensed RNs.",
+      "evidence": [
+        {
+          "text": "It looks like you can’t do the RN pre licensure degree at WGU if you live in Washington state. But if you’re already an RN you can do the RN to BSN Nursing Bachelor’s Degree in Washington. Is this cor",
+          "comment_id": "post"
+        },
+        {
+          "text": "Yes.",
+          "comment_id": "t1_n6ri83s"
+        }
+      ]
+    }
+  ],
+  "comments": [
+    {
+      "summary": "The thread confirms a distinction between pre-licensure RN programs (not available in WA) and the RN-to-BSN pathway (available), but provides no administrative details.",
+      "evidence": [
+        {
+          "text": "It looks like you can’t do the RN pre licensure degree at WGU if you live in Washington state. But if you’re already an RN you can do the RN to BSN Nursing Bachelor’s Degree in Washington. Is this cor",
+          "comment_id": "post"
+        }
+      ]
+    },
+    {
+      "summary": "Extremely low engagement and limited informative value — only a one-word confirmation without follow-up questions or elaboration.",
+      "evidence": [
+        {
+          "text": "Yes.",
+          "comment_id": "t1_n6ri83s"
+        }
+      ]
+    },
+    {
+      "summary": "Potential for applicant confusion: original post is truncated and lacks detail, so prospective students might not get clear guidance from this kind of thread.",
+      "evidence": [
+        {
+          "text": "It looks like you can’t do the RN pre licensure degree at WGU if you live in Washington state. But if you’re already an RN you can do the RN to BSN Nursing Bachelor’s Degree in Washington. Is this cor",
+          "comment_id": "post"
+        }
+      ]
+    }
+  ],
+  "verbatim_highlights": [
+    {
+      "text": "you can’t do the RN pre licensure degree at WGU if you live in Washington state. But if you’re already an RN you can do the RN to BSN Nursing Bachelor’s Degree in Washington.",
+      "comment_id": "post"
+    },
+    {
+      "text": "Yes.",
+      "comment_id": "t1_n6ri83s"
+    }
+  ],
+  "conversation_summary": "A Reddit user asked whether WGU's pre-licensure RN program is unavailable to Washington residents while the RN-to-BSN is available. The single reply simply confirmed the statement with \"Yes.\" There is no additional detail about licensing, admissions, or exceptions, and the original post is truncated and lacks follow-up. Overall the thread signals awareness that WGU restricts pre-licensure enrollment by state while allowing RN-to-BSN in Washington, but it provides minimal informational value for prospective students. The low engagement and brevity increase the risk of lingering confusion among readers who need concrete guidance. Leadership should note this as an example where clearer public-facing state eligibility information would reduce uncertainty."
+}
+
+===== 1n1u9pp.json =====
+{
+  "post": {
+    "post_id": "1n1u9pp",
+    "title": "RN to BSN texts",
+    "permalink": "https://reddit.com/r/WGU/comments/1n1u9pp/rn_to_bsn_texts/",
+    "created_iso": null,
+    "subreddit": "WGU",
+    "num_comments": 0,
+    "selftext": "Hi. new here. Am wondering if there are any texts out there comparable to the books they use for Pathophysiology and Statistics that I can pick up early and get a handle on these classes before I start the 6 month term. Not asking for the pdf just something comparable I can pick up say at Amazon. Also any tips on the program as I am an ADN returning to school after MANY years. Thanks in advance.",
+    "selftext_truncated_for_llm": true
+  },
+  "reasons_to_choose": [
+    {
+      "summary": "Prospective students want to prepare in advance—WGU attracts learners who value self-directed, pre-course preparation for challenging subjects like pathophysiology and statistics.",
+      "evidence": [
+        {
+          "text": "Am wondering if there are any texts out there comparable to the books they use for Pathophysiology and Statistics that I can pick up early and get a handle on these classes before I star",
+          "comment_id": "post"
+        }
+      ]
+    },
+    {
+      "summary": "WGU's RN-to-BSN pathway is a clear decision driver for RNs seeking degree completion (user explicitly framed the question as RN to BSN).",
+      "evidence": [
+        {
+          "text": "RN to BSN texts",
+          "comment_id": "post"
+        }
+      ]
+    },
+    {
+      "summary": "New entrants come to the WGU community for practical, course-specific resource recommendations—indicating the program's reliance on peer-generated guidance.",
+      "evidence": [
+        {
+          "text": "Hi. new here.",
+          "comment_id": "post"
+        }
+      ]
+    }
+  ],
+  "comments": [
+    {
+      "summary": "Low/no engagement on this thread (no answers recorded) — potential gap in timely peer support or missed opportunity for program outreach.",
+      "evidence": [
+        {
+          "text": "post has zero comments",
+          "comment_id": "post"
+        }
+      ]
+    },
+    {
+      "summary": "User named two specific, potentially anxiety-provoking courses (Pathophysiology and Statistics), signaling which curriculum areas drive prospective-student concerns.",
+      "evidence": [
+        {
+          "text": "books they use for Pathophysiology and Statistics",
+          "comment_id": "post"
+        }
+      ]
+    },
+    {
+      "summary": "Post is truncated/typo at the end ('star'), suggesting quick informal post—shows users seek quick practical answers rather than formal guidance.",
+      "evidence": [
+        {
+          "text": "before I star",
+          "comment_id": "post"
+        }
+      ]
+    },
+    {
+      "summary": "Opportunity: create and promote a concise pre-start reading list or FAQ for RN-to-BSN entrants to reduce uncertainty and improve early satisfaction.",
+      "evidence": [
+        {
+          "text": "pick up early and get a handle on these classes",
+          "comment_id": "post"
+        }
+      ]
+    }
+  ],
+  "verbatim_highlights": [
+    {
+      "text": "RN to BSN texts",
+      "comment_id": "post"
+    },
+    {
+      "text": "books they use for Pathophysiology and Statistics",
+      "comment_id": "post"
+    },
+    {
+      "text": "Hi. new here.",
+      "comment_id": "post"
+    }
+  ],
+  "conversation_summary": "A new user posted on r/WGU asking which texts match the Pathophysiology and Statistics books used for the RN-to-BSN program because they want to prepare before starting. The post signals that incoming students are anxious about specific challenging courses and prefer to self-study ahead of time. There were no replies in this thread, highlighting either low engagement at the time or an unmet need for quick resource guidance. This thread implies WGU attracts motivated, self-directed learners who seek peer recommendations and practical pre-course materials. Leadership could address this by publishing an official pre-start reading list, FAQ, or pinned community resources to reduce friction and demonstrate support. The post’s informality suggests students want concise, actionable resources rather than long-form guidance. Overall, the thread is a small but clear indicator of a decision driver (wanting to be prepared for difficult courses) and a communication opportunity for the institution."
+}
+
+===== 1n3ys0m.json =====
+{
+  "post": {
+    "post_id": "1n3ys0m",
+    "title": "New student trying to get advice on if/how I could accelerate the classes I have. Start date 10/1",
+    "permalink": "https://reddit.com/r/WGU_Accelerators/comments/1n3ys0m/new_student_trying_to_get_advice_on_ifhow_i_could/",
+    "created_iso": "",
+    "subreddit": "WGU_Accelerators",
+    "num_comments": 1,
+    "selftext": "I am starting the RN to BSN on 10/1. I have to take: D236 C784 C494 D235 D218 D219 D220 D221 D222 D223 D224 D225 D226 Life has been hectic otherwise I would have done the direct RN to msn healh leadership and getting my MBA hospital administration. Is there any way I could accelerate my current classes or any classes I would need to take for the masters program? I'm new to Western governors and I'm not sure if I completely understand all the ins and outs of accelerating other than doing easy classes first and then doing classes for credits on cheaper platforms to transfer into the school. Also, any advice on scholarships? Hope this didn't break any rules.",
+    "selftext_truncated_for_llm": true
+  },
+  "reasons_to_choose": [
+    {
+      "summary": "Students can accelerate degree progress by using external credit providers (example: Sophia Learning) to knock out credits quickly.",
+      "evidence": [
+        {
+          "text": "Should’ve starting with Sophia learning to knock those credits out. Helped me substantially",
+          "comment_id": "t1_nexx41u"
+        }
+      ]
+    },
+    {
+      "summary": "WGU offers multiple pathways (RN→BSN and RN→MSN) that students consider when planning faster advancement or credential stacking.",
+      "evidence": [
+        {
+          "text": "I am starting the RN to BSN on 10/1. ... otherwise I would have done the direct RN to msn healh leader",
+          "comment_id": "post"
+        }
+      ]
+    }
+  ],
+  "comments": [
+    {
+      "summary": "OP lists a long set of required course codes and is looking to accelerate despite a hectic schedule—indicates demand for clear acceleration guidance and credit-by-exam or transfer options.",
+      "evidence": [
+        {
+          "text": "I have to take: D236 C784 C494 D235 D218 D219 D220 D221 D222 D223 D224 D225 D226 Life has been hectic",
+          "comment_id": "post"
+        }
+      ]
+    },
+    {
+      "summary": "Community recommendation for Sophia Learning as a practical tactic to speed completion, but represents informal peer advice that should be validated with official transfer/credit policies.",
+      "evidence": [
+        {
+          "text": "Should’ve starting with Sophia learning to knock those credits out. Helped me substantially",
+          "comment_id": "t1_nexx41u"
+        }
+      ]
+    },
+    {
+      "summary": "Thread volume is minimal (single reply), suggesting limited engagement on this specific acceleration question within the subreddit.",
+      "evidence": [
+        {
+          "text": "Only one comment offering a single external-credit suggestion",
+          "comment_id": "post"
+        }
+      ]
+    }
+  ],
+  "verbatim_highlights": [
+    {
+      "text": "Should’ve starting with Sophia learning to knock those credits out. Helped me substantially",
+      "comment_id": "t1_nexx41u"
+    },
+    {
+      "text": "I am starting the RN to BSN on 10/1.",
+      "comment_id": "post"
+    },
+    {
+      "text": "otherwise I would have done the direct RN to msn healh leader",
+      "comment_id": "post"
+    }
+  ],
+  "conversation_summary": "A new student posted they will start the RN→BSN program on 10/1 and listed many required course codes, asking how to accelerate given a hectic schedule. The single reply recommended using Sophia Learning to obtain credits quickly, with the commenter saying it helped them substantially. The OP also noted they might have pursued the direct RN→MSN path if circumstances had allowed, indicating interest in faster or stacked pathways. Overall the thread shows peer-driven tactics (external credit providers) are part of students' acceleration strategies but offers little official guidance. Engagement was low (one reply), and the community suggestion should be validated against WGU transfer/credit policies. For leadership, this signals demand for clear, promoted options for credit acceleration and confirmation about accepted external credits and RN-to-MSN pathways."
+}
+
+===== 1n7051o.json =====
+{
+  "post": {
+    "post_id": "1n7051o",
+    "title": "Is there a such thing as completing too fast?",
+    "permalink": "https://reddit.com/r/WGU/comments/1n7051o/is_there_a_such_thing_as_completing_too_fast/",
+    "created_iso": "",
+    "subreddit": "WGU",
+    "num_comments": 36,
+    "selftext": "I began the RN-BSN program yesterday and have completed the requirements for 3 courses already, but I am scared to submit them because it's only been two days. I started 09/01/25 at 10:15 am EST after I got off the phone with my mentor, and worked on 3 courses till 11:15 pm, and then submitted 2 of the courses' PAs. One has already been graded as a pass. Today I continued working on that 3rd course at 9:30 am, and it is now 8:00 pm, and I have completed the PAs for the course, but I am afraid to submit it. For context, I just finished my Associate's Degree in Nursing in May, and these 3 courses were things we already learned, so I knew the material. I don't want my speed to be presumed as cheating or a red flag, but I also don't want to waste time slow walking things I already know. I Also have a lot of time to work on coursework during the week because I only work Friday, Saturday, and Sunday and have no other obligations. I want to complete the program in one semester, so I would rather spend the majority of my time on subjects I know I will struggle with, like Statistics lol I'll need the whole 6 months for that.",
+    "selftext_truncated_for_llm": true
+  },
+  "reasons_to_choose": [
+    {
+      "summary": "Competency-based model lets students who already know material move quickly and not waste time.",
+      "evidence": [
+        {
+          "text": "Never heard of anyone having a problem for completing too fast. The whole point of competency based education is that people who already know the material don't need to waste time...",
+          "comment_id": "t1_nc41cn2"
+        }
+      ]
+    },
+    {
+      "summary": "WGU supports rapid progress and 'go at your own pace'—students are encouraged to submit work as soon as it's ready.",
+      "evidence": [
+        {
+          "text": "Submit it. The whole system is built around “go at your own pace”. If your pace is finishing those courses quickly then it’s your pace.",
+          "comment_id": "t1_nc5om4m"
+        }
+      ]
+    },
+    {
+      "summary": "The program is designed for working professionals; students report it makes balancing work and school easier.",
+      "evidence": [
+        {
+          "text": "They make it easy to work full time and also go to school.",
+          "comment_id": "t1_nc3z4zx"
+        }
+      ]
+    },
+    {
+      "summary": "Many students transfer credits and preview/accelerate courses, enabling shorter overall degree timelines (examples: finishing RN-BSN in months).",
+      "evidence": [
+        {
+          "text": "I completed my rn-bsn w WGU in 4 mo and that was with taking a week off here and there.",
+          "comment_id": "t1_nc6y0dx"
+        },
+        {
+          "text": "Back in my day ... WGU let you preview the classes before you enrolled ...",
+          "comment_id": "t1_nc5zzgo"
+        }
+      ]
+    }
+  ],
+  "comments": [
+    {
+      "summary": "Students warn that later/core courses can be more challenging and may naturally slow down progress.",
+      "evidence": [
+        {
+          "text": "Wait until you hit the core material you’ve not seen yet. Then come back to this post lol.",
+          "comment_id": "t1_nc4bvky"
+        },
+        {
+          "text": "Economics kicked my ass, but the rest has been a breeze. They make it easy to work full time and also go to school.",
+          "comment_id": "t1_nc3z4zx"
+        }
+      ]
+    },
+    {
+      "summary": "There is some community confusion/distinction between pre-assessments (PA), performance assessments, and objective assessments.",
+      "evidence": [
+        {
+          "text": "You are confusing pre-assessment with performance assessment… All classes have the pre-assessment. Some classes have a PA (Performance Assessment) ...",
+          "comment_id": "t1_nc4oi0z"
+        },
+        {
+          "text": "I asked what classes that they were taking for a reason. I wasn’t sure if it was the Pre-Assessment, Performance Assessment, or Objective Assessment...",
+          "comment_id": "t1_nc65xyk"
+        }
+      ]
+    },
+    {
+      "summary": "Anecdotal, lighthearted pushback and humor reinforce general acceptance of acceleration (jokes, ex-spouse quips).",
+      "evidence": [
+        {
+          "text": "My ex wife certainly thought so",
+          "comment_id": "t1_nc5qfqs"
+        },
+        {
+          "text": "Premature e-graduation.",
+          "comment_id": "t1_nc6fwoq"
+        }
+      ]
+    },
+    {
+      "summary": "Multiple commenters report successfully completing many courses in short timeframes, encouraging submission and continuation.",
+      "evidence": [
+        {
+          "text": "I completed four IT courses last week. Submit those assignments and complete your degree as fast as you want.",
+          "comment_id": "t1_nc4zaaa"
+        },
+        {
+          "text": "I completed all of my first term planned classes in the first week of the term. Submit them and move on to the next one.",
+          "comment_id": "t1_nc6qomo"
+        }
+      ]
+    }
+  ],
+  "verbatim_highlights": [
+    {
+      "text": "Never heard of anyone having a problem for completing too fast.",
+      "comment_id": "t1_nc41cn2"
+    },
+    {
+      "text": "Submit it. The whole system is built around “go at your own pace”.",
+      "comment_id": "t1_nc5om4m"
+    },
+    {
+      "text": "They make it easy to work full time and also go to school.",
+      "comment_id": "t1_nc3z4zx"
+    },
+    {
+      "text": "I completed my rn-bsn w WGU in 4 mo",
+      "comment_id": "t1_nc6y0dx"
+    }
+  ],
+  "conversation_summary": "Thread participants overwhelmingly reassure the OP that completing courses quickly at WGU is normal and supported by the competency-based model. Many share personal anecdotes of finishing multiple courses or entire RN-BSN programs in months, and repeatedly advise submitting work rather than holding back. Commenters note WGU is designed for working professionals and for learners who can accelerate when they already know material. Several users caution that core or new material can be more difficult and will naturally slow some students down. There is also some side discussion and minor confusion distinguishing pre-assessments, performance assessments, and objective assessments. Overall tone is encouraging, pragmatic, and oriented toward taking advantage of the program's flexibility while preparing for harder courses ahead."
+}
+

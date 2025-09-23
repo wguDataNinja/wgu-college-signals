@@ -1,0 +1,8 @@
+# RN to BSN texts
+
+Hi. new here. Am wondering if there are any texts out there comparable to the books they use for Pathophysiology and Statistics that I can pick up early and get a handle on these classes before I start the 6 month term. Not asking for the pdf just something comparable I can pick up say at Amazon. Also any tips on the program as I am an ADN returning to school after MANY years. Thanks in advance.
+
+Post: https://reddit.com/r/WGU/comments/1n1u9pp/rn_to_bsn_texts/
+
+## Comments
+_No comments_

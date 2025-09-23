@@ -1,0 +1,80 @@
+{
+  "post": {
+    "post_id": "1i2ealw",
+    "title": "RN to BSN?",
+    "permalink": "https://reddit.com/r/WGU/comments/1i2ealw/rn_to_bsn/",
+    "created_iso": "",
+    "subreddit": "",
+    "num_comments": 1,
+    "selftext": "How is the RN to BSN program? Can I do this while doing a new grad residency ? Can I accelerate finishing the BSN in one term ? I’m in CA.",
+    "selftext_truncated_for_llm": true
+  },
+  "reasons_to_choose": [
+    {
+      "summary": "Reported ability to complete WGU RN-to-BSN in an accelerated timeframe (6 months).",
+      "evidence": [
+        {
+          "text": "I completed the program in 2020 in 6 months while working full time.",
+          "comment_id": "t1_m7e95cp"
+        }
+      ]
+    },
+    {
+      "summary": "Program can be completed while working full time (flexible scheduling/work-study compatibility).",
+      "evidence": [
+        {
+          "text": "I completed the program in 2020 in 6 months while working full time.",
+          "comment_id": "t1_m7e95cp"
+        }
+      ]
+    }
+  ],
+  "comments": [
+    {
+      "summary": "New clinical requirements have been added since the commenter graduated, creating uncertainty about current difficulty and completion logistics.",
+      "evidence": [
+        {
+          "text": "There are new clinical requirements that were not present when I completed the program, so I can’t comment on the difficulty.",
+          "comment_id": "t1_m7e95cp"
+        }
+      ]
+    },
+    {
+      "summary": "OP asked specifically about doing the program during a new grad residency and accelerating to finish in one term (location: CA), but the thread contains only one anecdote and doesn't answer the residency question directly.",
+      "evidence": [
+        {
+          "text": "How is the RN to BSN program? Can I do this while doing a new grad residency ? Can I accelerate finishing the BSN in one term ? I’m in CA.",
+          "comment_id": "post"
+        },
+        {
+          "text": "I completed the program in 2020 in 6 months while working full time. There are new clinical requirements that were not present when I completed the program, so I can’t comment on the difficulty. The r",
+          "comment_id": "t1_m7e95cp"
+        }
+      ]
+    },
+    {
+      "summary": "Very small sample size: single, slightly truncated comment limits confidence; leadership should verify current clinical-hour policy before relying on this anecdote.",
+      "evidence": [
+        {
+          "text": "I completed the program in 2020 in 6 months while working full time. There are new clinical requirements that were not present when I completed the program, so I can’t comment on the difficulty. The r",
+          "comment_id": "t1_m7e95cp"
+        }
+      ]
+    }
+  ],
+  "verbatim_highlights": [
+    {
+      "text": "I completed the program in 2020 in 6 months while working full time.",
+      "comment_id": "t1_m7e95cp"
+    },
+    {
+      "text": "There are new clinical requirements that were not present when I completed the program",
+      "comment_id": "t1_m7e95cp"
+    },
+    {
+      "text": "Can I do this while doing a new grad residency ? Can I accelerate finishing the BSN in one term ?",
+      "comment_id": "post"
+    }
+  ],
+  "conversation_summary": "The OP asked whether the RN-to-BSN can be done during a new grad residency and whether it can be accelerated (OP is in CA). One commenter reported completing WGU's RN-to-BSN in 6 months while working full time (graduated in 2020), indicating potential for fast completion and flexibility. The commenter also noted that new clinical requirements have since been added, so they could not speak to current difficulty. The thread is a single anecdote and doesn't directly answer the residency-overlap question; it offers low-confidence positive signals but highlights policy changes. For leadership, the takeaway is that WGU is perceived as flexible and capable of accelerated completion by alumni, but up-to-date clinical-hour policy and residency compatibility should be verified and communicated. Given the limited data, consider gathering more recent student experiences or clarifying clinical requirement changes publicly to address prospective-student concerns."
+}

@@ -1,0 +1,8 @@
+# WGU BSN Pre-Licensure 2025 Cohort
+
+Looking for fellow students starting their BSN Pre-Licensure/ RN-BSN at WGU this year! I start my program in April and would love to build a community. I am in Utah so there is where my schooling/ clinicals will be based out of. I have a few other degrees so while I am starting the Pre-licensure program, I was able to shave 1.5 years off my degree so I am only a semester away from the core nursing curriculum. Let's connect and support each other!
+
+Post: https://reddit.com/r/WGU/comments/1jdtlmj/wgu_bsn_prelicensure_2025_cohort/
+
+## Comments
+_No comments_
