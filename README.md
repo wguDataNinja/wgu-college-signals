@@ -2,13 +2,13 @@
 
 This project transforms messy Reddit discussions into structured insights about **why students choose WGU programs**. It combines data collection, text processing, and LLM analysis in a reproducible pipeline.  
 
-The current focus is on **RN-BSN (pre-licensure)** — a priority program for WGU’s School of Health.  
+The current focus is on **RN-BSN (pre-licensure)**
 
  **See the full analysis report here:** [Signals from Social Media: WGU’s RN-BSN (Pre-Licensure)](docs/index.md)
 
 ---
 
-## Scope and intent
+### Scope and intent
 
 - Focus: **reasons to choose the RN-BSN program**
 - Prototype: demonstrates how LLMs can extract decision drivers from social media  
@@ -16,7 +16,7 @@ The current focus is on **RN-BSN (pre-licensure)** — a priority program for WG
 
 ---
 
-## Pipeline
+   ### Pipeline
 
 All steps use the **official Reddit API**. You’ll need a Reddit account and API credentials in a `.env` file.  
 
@@ -42,15 +42,47 @@ All steps use the **official Reddit API**. You’ll need a Reddit account and AP
    → `output/reddit/YYYY-MM-DD/per_post/{post_id}.json`  
    → `output/reddit/YYYY-MM-DD/meta/inputs_manifest.json`
 
-**Optional utility**  
-- `scripts/merge_reddit_threads.py` → merges per-post outputs into a single file  
-- `scripts/test_reddit_api.py` → quick check of Reddit API access  
+   <details>
+   <summary>Full prompt (click to expand)</summary>
+
+   ```text
+   You are a WGU institutional stakeholder focused on the RN-BSN program’s reputation and decision drivers.
+   Read ONE Reddit thread (post + all comments) and output a concise, valid JSON object for leadership.
+
+   INPUT
+   - thread_json: {
+       "post": {"post_id": "...", "title": "...", "selftext": "...", "permalink": "...", "created_iso": "...", "subreddit": "..."},
+       "comments": [{"comment_id": "...", "body": "...", "replies": [...]}, ...]
+     }
+
+   OUTPUT
+   Return ONLY a single JSON object with this exact schema:
+   {
+     "post": { ... },
+     "reasons_to_choose": [ ... ],
+     "comments": [ ... ],
+     "verbatim_highlights": [ ... ],
+     "conversation_summary": "..."
+   }
+
+   REQUIREMENTS
+   1) Each item in "reasons_to_choose" is a standalone specific reason to choose WGU.
+   2) Put all other relevant observations into "comments".
+   3) Evidence: use comment_id only ("post" or "t1_xxxxx").
+   4) Keep summaries concise and stakeholder-oriented.
+   5) End with a conversation_summary that synthesizes the whole thread.
+   6) Output JSON only. Do not wrap in Markdown or add extra text.
+
+   NOW PROCESS THIS:
+   {{thread_json}}
+      </details>
+   ```
 
 ---
 
 ## Data
 
-This repo includes sample data (all public via Reddit API):  
+This repo includes all raw and intermediary data (all public via Reddit API):  
 
 - `data/reddit/posts/posts_rn-bsn_20250922.csv` → keyword search results  
 - `data/reddit/comments/raw/` → raw JSONL comment dumps  
