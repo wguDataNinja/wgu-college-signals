@@ -153,7 +153,7 @@ def main():
 
     per_post = load_per_post_json(per_post_dir)
     md = render_markdown(run_dir, df, per_post)
-    out_md = run_dir / "index.md"
+    out_md = run_dir / "rn-bsn-analysis.md"
     out_md.write_text(md, encoding="utf-8")
     print(f"Wrote {out_md}")
 

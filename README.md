@@ -4,7 +4,7 @@ This project transforms messy Reddit discussions into structured insights about 
 
 The current focus is on **RN-BSN (pre-licensure)**
 
- **See the full analysis report here:** [Signals from Social Media: WGU’s RN-BSN (Pre-Licensure)](docs/index.md)
+ **See the full analysis report here:** [Signals from Social Media: WGU’s RN-BSN (Pre-Licensure)](docs/rn-bsn-analysis)
 
 ---
 
