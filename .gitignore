@@ -1,14 +1,24 @@
-.idea/
-db/
-data/raw/
-data/labels/*
-dev/llm_bundle.md
-.venv/
-.DS_Store.idea/
-db/*.db
-data/raw/
-data/labels/*
-dev/
-.venv/
+# System / IDE / environment
 .DS_Store
+.idea/
+.venv/
+.env
+
+# Local databases
+db/
+*.db
+*.backup-*
+
+# Intermediate or generated outputs
+output/
+tables/
+aggregate/
+
+# Dev notes and scratch files
+dev/
+*.error.json
+
+# Ignore any .old folders
 .old/
+generate_dir_tree.py
+llm_pack.py/
